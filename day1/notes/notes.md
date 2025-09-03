@@ -1,3 +1,5 @@
+# Training Program Requirements
+
 1) Python Evn (VS CODE)
 
 2) GitHub
@@ -5,7 +7,7 @@
 3) Linkedin
 
 ---------------------------------------------------------
-Key Observations in a program
+# Key Observations in a program
 
 1) Input
 
@@ -15,7 +17,7 @@ Key Observations in a program
 
 
 ---------------------------------------------------------
-Programs
+# Basics Practice Programs
 
 1) Write a program to input radius of circle and find the area?
 
@@ -40,3 +42,24 @@ Programs
 
 9) Write a program to enter consumer number, consumer name, present month reading and last month reading, calculate total units and current bill. Finally print all consumer details along with current bill
 NOTE: cost per unit is 3.80.
+
+---------------------------------------------------------
+# Functions
+
+Syntax:
+```
+def fun_name(args_list):
+    # code
+
+fun_name(arg1, arg2)
+```
+
+## Function Types
+1) No Args and No Return
+2) No Args and with Return
+3) With Args and No Return
+4) With Args and With Return
+
+---------------------------------------------------------
+## Practice Programs
+1) Convert Kilometers to miles
