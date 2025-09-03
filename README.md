@@ -5,6 +5,7 @@ Data has been all around the world now. The Raw data has to be processed into st
     More than half of the generated data is raw data
 
 # WorkFlow
+```
 day1/
     ├── notes/
     |   └── notes.md
@@ -15,3 +16,4 @@ day1/
         ├── shapes.py
         ├── student.py
         └── swap.py
+```
