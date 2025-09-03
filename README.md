@@ -7,8 +7,21 @@ Data has been all around the world now. The Raw data has to be processed into st
 # WorkFlow
 ```
 day1/
+    ├── control_statements/
+        └── conditional_statements/
+            ├── check_alphabet.py
+            ├── divisibility.py
+            ├── evenodd.py
+            ├── greatest_num.py
+            ├── leapyear.py
+            ├── pos_neg.py
+            └── vowel_consonent.py
+    ├── functions/
+        └── converter.py
     ├── notes/
-    |   └── notes.md
+        └── notes.md
+    ├── operators/
+        └── arithmetic.py
     └── python_basics/
         ├── electricity_bill.py
         ├── helloworld.py
