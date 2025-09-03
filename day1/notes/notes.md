@@ -63,3 +63,32 @@ fun_name(arg1, arg2)
 ---------------------------------------------------------
 ## Practice Programs
 1) Convert Kilometers to miles
+2) Convert Days to Years and Months (approx)
+
+---------------------------------------------------------
+# Operators
+## Arithmetic Operators
+	+
+	-
+	/
+	*
+	// - floor division
+	** - exponent
+	% - modulus division
+
+## Relational Operators
+	>
+	<
+	<=
+	>=
+	==
+	!=
+
+## Logical Operators
+	and 
+	or 
+	not
+
+## Membrship Operators
+	in
+	not in
