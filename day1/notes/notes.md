@@ -92,3 +92,21 @@ fun_name(arg1, arg2)
 ## Membrship Operators
 	in
 	not in
+
+---------------------------------------------------------
+# Control Statements
+## Conditional Statements
+	if 
+	if-else
+	when
+## Loop Statements
+	for
+	while
+---------------------------------------------------------
+## Pracitce Programs
+1) Even or Odd
+2) Write a Program to check whether a number is negative or positive or zero
+3) Check if a number is divisible by 5 and 11 or not
+4) Leap year
+5) Check if a character is alphabet or not
+6) Vowel or Consonent
