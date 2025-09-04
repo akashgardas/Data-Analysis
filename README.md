@@ -7,7 +7,7 @@ Data has been all around the world now. The Raw data has to be processed into st
 Each day folder contains the notes folder which contains the notes for the session.
 
 # Description of each day
-Day 1 & 2: Python Programming: Syntax, Practice problems on each concept in python
+**Day 1 & 2**: __Python Programming__: _Syntax, Practice problems on each concept in python_
 
 # WorkFlow
 ```
