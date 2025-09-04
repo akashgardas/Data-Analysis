@@ -32,3 +32,5 @@
 10) Count the number of digits in a number
 11) Find the first and the last digits in a number
 12) Sum of first and last digits in a number
+13) Print all ASCII character with theri values
+14) Print number in words (123 - one two three)
