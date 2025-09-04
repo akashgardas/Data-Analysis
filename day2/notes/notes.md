@@ -26,7 +26,7 @@
 4) Display N alphabet
 5) Sum of N natural numbers
 6) Factorial
-7) Check Prime
+7) Check Prime, print from 1 to 100
 8) Number table (n x 1 = n)
 9) Sum of digits
 10) Count the number of digits in a number
@@ -34,3 +34,12 @@
 12) Sum of first and last digits in a number
 13) Print all ASCII character with theri values
 14) Print number in words (123 - one two three)
+15) Pattern printing
+16) Palindromes between 1 and N
+17) Armstrong Numbers between 1 and N
+18) Strong number
+19) Perfect number
+20) Find all factors of a number
+21) Find all Prime factors of a number
+22) Fibonacci series
+23) Pascals triangle
