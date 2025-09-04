@@ -1,3 +1,7 @@
+=========================================================
+--------------------------DAY 1--------------------------
+=========================================================
+
 # Training Program Requirements
 
 1) Python Evn (VS CODE)
@@ -110,3 +114,6 @@ fun_name(arg1, arg2)
 4) Leap year
 5) Check if a character is alphabet or not
 6) Vowel or Consonent
+7) Display Day based on day number
+8) Input a character and check whether it is an alphabet, digit or a special character
+9) Check if student is pass or fail based on the marks

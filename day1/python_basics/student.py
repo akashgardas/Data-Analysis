@@ -1,4 +1,8 @@
 class Student:
+    '''
+    Args: name, id, marks
+    '''
+    
     def __init__(self, name, id, marks):
         self.name = name
         self.id = id
