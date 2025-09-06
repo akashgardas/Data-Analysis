@@ -1,3 +1,5 @@
+<img width="851" height="315" alt="cover_image" src="https://github.com/user-attachments/assets/a285f2ca-9bba-4fe3-a254-74880f271740" />
+
 # Machine Learning
 ML training program from Tek works. This repo contains all the training activities 
 
