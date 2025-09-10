@@ -104,3 +104,22 @@
         - Prints the list of attendees who attended exactly one day
         - Prints pairwise overlap counts(day1 & day2, day2 & 3, 3 & 1)
         - Produces a final report with counts and sorted lists for each of the above outputs
+
+---------------------------------------------------------
+# Dictionaries
+    - key, value pairs
+    - keys: mutable type
+## Methods
+    - values(), keys(), items()
+
+---------------------------------------------------------
+### Practice Programs
+1) You are building a Library Management System in Python. The system should store books in a dictionary where, key is bookid and value is boot title. 
+    Write a Python program to perform the following operations using Dictionaries:
+        - Add a book to the library (Book Id, Title)
+        - Remove a book using Book ID
+        - Search for a book by Book ID and display the title
+        - Update the title of a book (eg. correction in title)
+        - Display all books in the library
+        - Count the total number of books in the library
+        - Check if a book title exists in the library (reverse look up)
