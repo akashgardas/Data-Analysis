@@ -13,15 +13,23 @@ class Cart:
             return True
         else:
             return False
+    
+    def sort_items(self):
+        self.products.sort()
         
     def size(self):
         return len(self.products)
+
+    def clear(self):
+        self.products.clear()
     
     def display(self):
         print('-'*30)
         print('YOUR CART')
         print('-'*30)
         print(f'Total Number of items: {self.size()}')
+        
+        self.sort_items()
         print(f'Items: ')
         for item in self.products:
             print(item, end=', ')
