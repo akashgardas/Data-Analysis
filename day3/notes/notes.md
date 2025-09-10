@@ -68,3 +68,9 @@
 2) Count alphabet, digits and special characters in a string
 3) Count vowels and consonants in a string
 4) Count number of words in a string
+5) Count freq of a character in a string
+6) Write a program for the following
+    input: aaabbca
+    output: a4b2c1
+7) Find the highest frequency character in a string
+8) Find the lowest frequency character in a string
