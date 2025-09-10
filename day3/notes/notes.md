@@ -74,3 +74,33 @@
     output: a4b2c1
 7) Find the highest frequency character in a string
 8) Find the lowest frequency character in a string
+
+---------------------------------------------------------
+# Sets
+    - No duplicates
+    - Unordered
+    - Mutable
+    - Heterogeneous
+    - Unindexed
+
+## Set Operations
+    - union (|) (.union())
+    - intersection (&) (.intersection())
+    - difference (-) (.difference())
+    - symmetric difference (^) (.symmetric_difference()) : except those that are common in both
+## Methods
+    - add(), update()
+    - remove(), discard(), pop(), clear()
+    - Membership: in, not in
+    - len, max, min, sum, sorted
+
+---------------------------------------------------------
+### Practice Programs
+1) A 3-day tech workshop collected attendee registrations separately for each day. You are given three lists(day1, day2, day3) of email addresses - lists may contain duplicates (people registering multiple times) and email case may vary(Upper/Lower).
+    Write a python program that:
+        - Cleans each day's list (normalizes case, removes duplicates)
+        - Prints the total number of unique attendees across all days.
+        - Prints the list of attendees who attended all three days
+        - Prints the list of attendees who attended exactly one day
+        - Prints pairwise overlap counts(day1 & day2, day2 & 3, 3 & 1)
+        - Produces a final report with counts and sorted lists for each of the above outputs
