@@ -123,3 +123,29 @@
         - Display all books in the library
         - Count the total number of books in the library
         - Check if a book title exists in the library (reverse look up)
+
+---------------------------------------------------------
+# Modules
+    - Code reusability
+    - Maintainability
+    - Organized code
+    - Collaboration
+
+## Types
+    - User defined 
+    - Built in modules
+    - External modules
+
+---------------------------------------------------------
+### Practice Programs
+You are asked to build a simple E-commerce billing system using Python modules
+1) Create a module file named ecommerce_util.py that contains the following functions:
+    - apply_discount(price, discount percent) : applies a discount and returns the discounted price
+    - add_gst(price, gst_percent=18) : adds GST (default 18%) and return the new price
+    - generate_invoice(car, discount_percent=0, gst_percent=18) : accepts a dictionary cart (with product names as keys and prices as values) and prints a detailed invoice
+
+2) Create a main program file named main.py that:
+    - Imports the ecommerce_utils module
+    - Creates a shopping cart (dictionary) with at least 3 products
+    - Calls the module functions to generate an invoice
+
