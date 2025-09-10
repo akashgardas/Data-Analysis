@@ -8,7 +8,7 @@
     2. Sets
     3. Dictionaries
 
----
+---------------------------------------------------------
 
 # Lists
 
@@ -25,7 +25,7 @@
 
 ### List comprehensions & Nested List Comprehensions
 
----
+---------------------------------------------------------
 
 ## Practice Programs
 
@@ -44,13 +44,13 @@
    - Display all products in the cart
    - Count number of products in the cart
 
----
+---------------------------------------------------------
 
 # Tuples
 
     - immutable
 
----
+---------------------------------------------------------
 
 ## Practice Programs
 1) A school stores student records as tuples in the format (roll_no, name, marks)
@@ -58,3 +58,13 @@
     - Store the data of 5 students in a list of tuples
     - Print the name of the student who scored the highest marks
     - Print all students who scored more than 75 marks
+
+---------------------------------------------------------
+# Strings
+
+---------------------------------------------------------
+### Practice Programs
+1) Find length of a string without using len method
+2) Count alphabet, digits and special characters in a string
+3) Count vowels and consonants in a string
+4) Count number of words in a string
