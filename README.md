@@ -11,6 +11,10 @@ Each day folder contains the notes folder which contains the notes for the sessi
 # Description of each day
 **Day 1 & 2**: __Python Programming__- _Syntax, Practice problems on each concept in python_
 
+**Day 3**: __Python Programming__ - _Data Structures (Lists, Tuples, Sets, Dictionaries), Modular Programming_
+
+**Day 4**: __Python Programming__ - _Object Oriented Programming, Exception Handling_
+
 **TEST 1**: __Python Programming__ - Score: 98%, 44 / 45
 
 # WorkFlow
@@ -71,8 +75,58 @@ day2/
             └── sum_of_digits.py
     └── notes/
         └── notes.md
+day3/
+    ├── data_structures/
+        ├── dictionaries/
+            └── lib_management_system.py
+        ├── lists/
+            ├── del_element.py
+            ├── demo.py
+            ├── duplicates_count.py
+            ├── e_commerce_cart.py
+            ├── even_odd_count.py
+            ├── freq_count.py
+            ├── neg_nums.py
+            ├── second_max.py
+            ├── tempCodeRunnerFile.py
+            └── unique_elements.py
+        ├── sets/
+            └── workshop_attendance.py
+        └── tuples/
+            ├── sample.py
+            └── school.py
+    ├── modules/
+        └── demo/
+            ├── __init__.py
+            ├── arithmetic.py
+            └── sample.py
+    ├── notes/
+        └── notes.md
+    └── strings/
+        ├── char_counts.py
+        ├── char_freq.py
+        ├── count_str.py
+        ├── highest_freq_char.py
+        ├── lowest_freq_char.py
+        ├── str_len.py
+        └── tempCodeRunnerFile.py
+day4/
+    ├── exception_handling/
+        └── demo.py
+    ├── notes/
+        └── notes.md
+    └── OOPS/
+        ├── abstract_clasees.py
+        ├── bank_account.py
+        ├── inheritance.py
+        ├── payment_gateways.py
+        └── student.py
 MyWorks/
     ├── hypotenuse.py
+    ├── prime.py
     ├── student.py
     └── tuple_list_sorting.py
+.gitignore
+LICENSE
+README.md
 ```
