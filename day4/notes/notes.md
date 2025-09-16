@@ -17,3 +17,5 @@
 3. Create a student class to demonstrate classes and objects
 
 4. Demonstrate exception handling
+
+5. Inheritance: Create an Employee and Manager classes
