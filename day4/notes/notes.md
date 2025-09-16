@@ -13,3 +13,7 @@
     Circle → has attribute radius, and implements area().
 
 2. Create a Bank Account class 
+
+3. Create a student class to demonstrate classes and objects
+
+4. Demonstrate exception handling
