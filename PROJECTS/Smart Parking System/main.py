@@ -63,7 +63,7 @@ for i in range(3):
 # 5. Testing
 lot.show_spots()
 
-cost, vehicle = lot.unpark_vechicle("TS15QR4455", hours=4)
+cost, vehicle = lot.unpark_vehicle("TS15QR4455", hours=4)
 print('='*30)
 print(f'Cost: {cost}')
 print('='*30)

@@ -81,7 +81,7 @@ class ParkingLot:
 
         return False
     
-    def unpark_vechicle(self, plate: str, hours: int=1):
+    def unpark_vehicle(self, plate: str, hours: int=1):
         '''
             Returns cost calculated based on hours
         '''
