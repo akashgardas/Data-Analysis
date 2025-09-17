@@ -53,12 +53,24 @@ for i in range(3):
     lot.park_vehicle(cars[i])
 
 # SUVs
-for i in range(1):
+for i in range(2):
     lot.park_vehicle(suvs[i])
 
 # Trucks
-for i in range(2):
+for i in range(3):
     lot.park_vehicle(trucks[i])
 
 # 5. Testing
 lot.show_spots()
+
+cost, vehicle = lot.unpark_vechicle("TS15QR4455", hours=4)
+print('='*30)
+print(f'Cost: {cost}')
+print('='*30)
+
+payment = Payment()
+payment.process_payment(cost)
+
+print('='*30)
+print('Thank You'.center(30))
+print('='*30)

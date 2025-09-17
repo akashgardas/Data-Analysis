@@ -7,10 +7,9 @@ class Vehicle:
         self.parking_spot = None
     
     def display(self):
-        print(f'License: {self.license}')
-        print(f'Plate: {self.plate}')
-        print(f'Owner Name: {self.owner_name}')
-        print(f'Spot Status: {self.spot_status}')
+        print(f'\tLicense: {self.license}')
+        print(f'\tPlate: {self.plate}')
+        print(f'\tOwner Name: {self.owner_name}')
     
     def calc_parking_fee(self, hours=1):
         return hours * self.fee_per_hour
@@ -23,7 +22,7 @@ class Bike(Vehicle):
         
     def display(self):
         super().display()
-        print(f'Helmet Required: {self.helmet_req}')
+        print(f'\tHelmet Required: {self.helmet_req}')
 
 
 class Car(Vehicle):
@@ -33,7 +32,7 @@ class Car(Vehicle):
     
     def display(self):
         super().display()
-        print(f'Seats: {self.seats}')
+        print(f'\tSeats: {self.seats}')
 
 
 class SUV(Vehicle):
@@ -43,7 +42,7 @@ class SUV(Vehicle):
     
     def display(self):
         super().display()
-        print(f'Four Wheel Drive: {self.four_wheel_drive}')
+        print(f'\tFour Wheel Drive: {self.four_wheel_drive}')
 
 
 class Truck(Vehicle):
@@ -53,4 +52,4 @@ class Truck(Vehicle):
         
     def display(self):
         super().display()
-        print(f'Max Load Capacity: {self.max_load_capacity}')
+        print(f'\tMax Load Capacity: {self.max_load_capacity}')

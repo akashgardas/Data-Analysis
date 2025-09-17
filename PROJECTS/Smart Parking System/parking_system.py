@@ -18,7 +18,9 @@ class ParkingSpot:
     
     def display(self):
         print(f'Size: {self.size}')
-        print(f'Slot Status: {self.vehicle}')
+        print(f'Slot Status: ')
+        if self.vehicle:
+            self.vehicle.display()
 
 
 class ParkingLot:
@@ -79,10 +81,19 @@ class ParkingLot:
 
         return False
     
-    def unpark_vechicle(self, vehicle: Vehicle, hours: int=1):
+    def unpark_vechicle(self, plate: str, hours: int=1):
         '''
             Returns cost calculated based on hours
         '''
-        vehicle, cost = vehicle.parking_spot.remove_vehicle(hours)
-        return vehicle, cost
+        # Search for vehicle and delete based on vehicle plate
+        for size in self.spots:
+            for spot in self.spots[size]:
+                if spot.vehicle and spot.vehicle.plate == plate:
+                    vehicle = spot.vehicle
+                    spot.vehicle = None
+        
+        cost = hours * vehicle.fee_per_hour
+        
+        return cost, vehicle
+    
 
