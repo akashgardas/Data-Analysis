@@ -168,51 +168,63 @@ Product table in supabase
 ```
 
 ---------------------------------------------------------
+# Project
+# Online Library Management System (with Supabase/Postgres + Python):
+- Build a command-line application in Python that connects to a Supabase Postgres database and performs all database operations as they happen in real life:
 
-Online Library Management System (with Supabase/Postgres + Python):
-Build a command-line application in Python that connects to a Supabase Postgres database and performs all database operations as they happen in real life:
-Register students/members.
-Add/update/remove books.
-Borrow/return books (transaction).
-Generate reports (like overdue, most borrowed books).
-🗄️ Database Schema (create in Supabase → SQL Editor)
--- Students / Members
-CREATE TABLE members (
-    member_id serial PRIMARY KEY,
-    name text NOT NULL,
-    email text UNIQUE NOT NULL,
-    join_date timestamptz DEFAULT NOW()
-);
+    - Register students/members.
+    - Add/update/remove books.
+    - Borrow/return books (transaction).
+    - Generate reports (like overdue, most borrowed books).
+
+## 🗄️ Database Schema (create in Supabase → SQL Editor)
+
+- Students / Members
+```
+    CREATE TABLE members (
+        member_id serial PRIMARY KEY,
+        name text NOT NULL,
+        email text UNIQUE NOT NULL,
+        join_date timestamptz DEFAULT NOW()
+    );
+```
  
--- Books
-CREATE TABLE books (
-    book_id serial PRIMARY KEY,
-    title text NOT NULL,
-    author text NOT NULL,
-    category text,
-    stock int NOT NULL DEFAULT 1
-);
+- Books
+```
+    CREATE TABLE books (
+        book_id serial PRIMARY KEY,
+        title text NOT NULL,
+        author text NOT NULL,
+        category text,
+        stock int NOT NULL DEFAULT 1
+    );
+```
  
--- Transactions (Borrow/Return)
-CREATE TABLE borrow_records (
-    record_id serial PRIMARY KEY,
-    member_id int REFERENCES members(member_id),
-    book_id int REFERENCES books(book_id),
-    borrow_date timestamptz DEFAULT NOW(),
-    return_date timestamptz
-);
+- Transactions (Borrow/Return)
+```
+    CREATE TABLE borrow_records (
+        record_id serial PRIMARY KEY,
+        member_id int REFERENCES members(member_id),
+        book_id int REFERENCES books(book_id),
+        borrow_date timestamptz DEFAULT NOW(),
+        return_date timestamptz
+    );
+```
  
 1. Create (Insert)
-Register new members (add_member(name, email)).
-Add new books (add_book(title, author, category, stock)).
+    Register new members (add_member(name, email)).
+    Add new books (add_book(title, author, category, stock)).
+
 2. Read (Select)
-List all books with availability.
-Search books by title/author/category.
-Show member details and their borrowed books.
+    List all books with availability.
+    Search books by title/author/category.
+    Show member details and their borrowed books.
+
 3. Update
-Update book stock (e.g., when more copies are purchased).
-Update member info (e.g., change email).
+    Update book stock (e.g., when more copies are purchased).
+    Update member info (e.g., change email).
+
 4. Delete
-Delete a member (only if no borrowed books).
-Delete a book (only if not borrowed).
+    Delete a member (only if no borrowed books).
+    Delete a book (only if not borrowed).
  
