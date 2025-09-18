@@ -17,6 +17,8 @@ Each day folder contains the notes folder which contains the notes for the sessi
 
 **TEST 1**: __Python Programming__ - Score: 98%, 44 / 45
 
+**PROJECT 1**: [__Smart Parking System__](https://github.com/akashgardas/Smart-Parking-System)
+
 # WorkFlow
 ```
 day1/
