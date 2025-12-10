@@ -1,0 +1,1001 @@
+,id,tenure,monthlycharges,totalcharges,churn,internetservice,contract,paymentmethod,tenure_group,monthly_charge_segment,has_internet_service,is_multi_line_user,contract_type_code
+0,14087,1,29.85,29.85,No,DSL,Month-to-month,Electronic check,New,Low,1,0,0
+1,14088,34,56.95,1889.5,No,DSL,One year,Mailed check,Regular,Med,1,0,1
+2,14089,2,53.85,108.15,Yes,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+3,14090,45,42.3,1840.75,No,DSL,One year,Bank transfer (automatic),Loyal,Med,1,0,1
+4,14091,2,70.7,151.65,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+5,14092,8,99.65,820.5,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+6,14093,22,89.1,1949.4,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,1,0
+7,14094,10,29.75,301.9,No,DSL,Month-to-month,Mailed check,New,Low,1,0,0
+8,14095,28,104.8,3046.05,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+9,14096,62,56.15,3487.95,No,DSL,One year,Bank transfer (automatic),Champion,Med,1,0,1
+10,14097,13,49.95,587.45,No,DSL,Month-to-month,Mailed check,Regular,Med,1,0,0
+11,14098,16,18.95,326.8,No,No,Two year,Credit card (automatic),Regular,Low,0,0,2
+12,14099,58,100.35,5681.1,No,Fiber optic,One year,Credit card (automatic),Loyal,High,1,1,1
+13,14100,49,103.7,5036.3,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),Loyal,High,1,1,0
+14,14101,25,105.5,2686.05,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+15,14102,69,113.25,7895.15,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+16,14103,52,20.65,1022.95,No,No,One year,Mailed check,Loyal,Low,0,0,1
+17,14104,71,106.7,7382.25,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+18,14105,10,55.2,528.35,Yes,DSL,Month-to-month,Credit card (automatic),New,Med,1,0,0
+19,14106,21,90.05,1862.9,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+20,14107,1,39.65,39.65,Yes,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+21,14108,12,19.8,202.25,No,No,One year,Bank transfer (automatic),New,Low,0,0,1
+22,14109,1,20.15,20.15,Yes,No,Month-to-month,Mailed check,New,Low,0,0,0
+23,14110,58,59.9,3505.1,No,DSL,Two year,Credit card (automatic),Loyal,Med,1,1,2
+24,14111,49,59.6,2970.3,No,DSL,Month-to-month,Credit card (automatic),Loyal,Med,1,0,0
+25,14112,30,55.3,1530.6,No,DSL,Month-to-month,Bank transfer (automatic),Regular,Med,1,0,0
+26,14113,47,99.35,4749.15,Yes,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+27,14114,1,30.2,30.2,Yes,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+28,14115,72,90.25,6369.45,No,DSL,Two year,Credit card (automatic),Champion,High,1,1,2
+29,14116,17,64.7,1093.1,Yes,DSL,Month-to-month,Mailed check,Regular,Med,1,0,0
+30,14117,71,96.35,6766.95,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+31,14118,2,95.5,181.65,No,Fiber optic,Month-to-month,Credit card (automatic),New,High,1,0,0
+32,14119,27,66.15,1874.45,No,DSL,One year,Mailed check,Regular,Med,1,0,1
+33,14120,1,20.2,20.2,No,No,Month-to-month,Bank transfer (automatic),New,Low,0,0,0
+34,14121,1,45.25,45.25,No,DSL,Month-to-month,Bank transfer (automatic),New,Med,1,0,0
+35,14122,72,99.9,7251.7,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+36,14123,5,69.7,316.9,Yes,Fiber optic,Month-to-month,Electronic check,New,Med,1,0,0
+37,14124,46,74.8,3548.3,No,Fiber optic,Month-to-month,Credit card (automatic),Loyal,High,1,0,0
+38,14125,34,106.35,3549.25,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+39,14126,11,97.85,1105.4,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),New,High,1,1,0
+40,14127,10,49.55,475.7,No,DSL,One year,Mailed check,New,Med,1,0,1
+41,14128,70,69.2,4872.35,No,DSL,Two year,Credit card (automatic),Champion,Med,1,1,2
+42,14129,17,20.75,418.25,No,No,One year,Mailed check,Regular,Low,0,0,1
+43,14130,63,79.85,4861.45,No,DSL,Two year,Credit card (automatic),Champion,High,1,1,2
+44,14131,13,76.2,981.45,No,DSL,Month-to-month,Electronic check,Regular,High,1,1,0
+45,14132,49,84.5,3906.7,No,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+46,14133,2,49.25,97.0,No,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+47,14134,2,80.65,144.15,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+48,14135,52,79.75,4217.8,No,DSL,Two year,Credit card (automatic),Loyal,High,1,1,2
+49,14136,69,64.15,4254.1,No,DSL,Two year,Credit card (automatic),Champion,Med,1,1,2
+50,14137,43,90.25,3838.75,No,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+51,14138,15,99.1,1426.4,Yes,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,0,0
+52,14139,25,69.5,1752.65,No,DSL,Month-to-month,Credit card (automatic),Regular,Med,1,1,0
+53,14140,8,80.65,633.3,Yes,Fiber optic,Month-to-month,Credit card (automatic),New,High,1,1,0
+54,14141,60,74.85,4456.35,No,DSL,One year,Credit card (automatic),Loyal,High,1,0,1
+55,14142,18,95.45,1752.55,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+56,14143,63,99.65,6311.2,No,Fiber optic,One year,Credit card (automatic),Champion,High,1,1,1
+57,14144,66,108.45,7076.35,No,Fiber optic,One year,Electronic check,Champion,High,1,1,1
+58,14145,34,24.95,894.3,No,No,Two year,Credit card (automatic),Regular,Low,0,1,2
+59,14146,72,107.5,7853.7,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+60,14147,47,100.5,4707.1,No,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+61,14148,60,89.9,5450.7,No,Fiber optic,Month-to-month,Bank transfer (automatic),Loyal,High,1,1,0
+62,14149,72,42.1,2962.0,No,DSL,Two year,Bank transfer (automatic),Champion,Med,1,0,2
+63,14150,18,54.4,957.1,No,DSL,One year,Credit card (automatic),Regular,Med,1,0,1
+64,14151,9,94.4,857.25,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+65,14152,3,75.3,244.1,No,DSL,Month-to-month,Electronic check,New,High,1,0,0
+66,14153,47,78.9,3650.35,No,Fiber optic,One year,Electronic check,Loyal,High,1,1,1
+67,14154,31,79.2,2497.2,No,DSL,Two year,Mailed check,Regular,High,1,0,2
+68,14155,50,20.15,930.9,No,No,Two year,Bank transfer (automatic),Loyal,Low,0,0,2
+69,14156,10,79.85,887.35,No,Fiber optic,Month-to-month,Mailed check,New,High,1,0,0
+70,14157,1,49.05,49.05,No,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+71,14158,52,20.4,1090.65,No,No,One year,Electronic check,Loyal,Low,0,0,1
+72,14159,64,111.6,7099.0,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+73,14160,62,24.25,1424.6,No,No,Two year,Bank transfer (automatic),Champion,Low,0,1,2
+74,14161,3,64.5,177.4,No,DSL,Month-to-month,Bank transfer (automatic),New,Med,1,0,0
+75,14162,56,110.5,6139.5,No,Fiber optic,One year,Electronic check,Loyal,High,1,1,1
+76,14163,46,55.65,2688.85,No,DSL,One year,Credit card (automatic),Loyal,Med,1,0,1
+77,14164,8,54.65,482.25,No,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+78,14165,30,74.75,2111.3,No,DSL,Month-to-month,Electronic check,Regular,High,1,0,0
+79,14166,45,25.9,1216.6,No,No,One year,Credit card (automatic),Loyal,Low,0,1,1
+80,14167,1,79.35,79.35,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+81,14168,11,50.55,565.35,No,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+82,14169,7,75.15,496.9,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),New,High,1,0,0
+83,14170,42,103.8,4327.5,No,Fiber optic,Month-to-month,Bank transfer (automatic),Loyal,High,1,0,0
+84,14171,49,20.15,973.35,No,No,Two year,Bank transfer (automatic),Loyal,Low,0,0,2
+85,14172,9,99.3,918.75,No,Fiber optic,Month-to-month,Credit card (automatic),New,High,1,1,0
+86,14173,35,62.15,2215.45,No,DSL,One year,Bank transfer (automatic),Regular,Med,1,0,1
+87,14174,48,20.65,1057.0,No,No,Two year,Bank transfer (automatic),Loyal,Low,0,0,2
+88,14175,46,19.95,927.1,No,No,Two year,Mailed check,Loyal,Low,0,0,2
+89,14176,29,33.75,1009.25,No,DSL,Month-to-month,Mailed check,Regular,Med,1,0,0
+90,14177,30,82.05,2570.2,No,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,0,0
+91,14178,1,74.7,74.7,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+92,14179,66,84.0,5714.25,No,DSL,Two year,Mailed check,Champion,High,1,1,2
+93,14180,65,111.05,7107.0,No,Fiber optic,Month-to-month,Credit card (automatic),Champion,High,1,1,0
+94,14181,72,100.9,7459.05,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+95,14182,12,78.95,927.35,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+96,14183,71,66.85,4748.7,No,DSL,One year,Credit card (automatic),Champion,Med,1,1,1
+97,14184,5,21.05,113.85,Yes,No,Month-to-month,Mailed check,New,Low,0,0,0
+98,14185,52,21.0,1107.2,No,No,Two year,Bank transfer (automatic),Loyal,Low,0,0,2
+99,14186,25,98.5,2514.5,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+100,14187,1,20.2,20.2,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+101,14188,1,19.45,19.45,No,No,Month-to-month,Electronic check,New,Low,0,0,0
+102,14189,38,95.0,3605.6,No,Fiber optic,One year,Bank transfer (automatic),Loyal,High,1,1,1
+103,14190,66,45.55,3027.25,No,DSL,One year,Bank transfer (automatic),Champion,Med,1,0,1
+104,14191,68,110.0,7611.85,Yes,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+105,14192,5,24.3,100.2,No,DSL,Month-to-month,Mailed check,New,Low,1,0,0
+106,14193,72,104.15,7303.05,No,Fiber optic,One year,Electronic check,Champion,High,1,1,1
+107,14194,32,30.15,927.65,No,DSL,One year,Mailed check,Regular,Med,1,0,1
+108,14195,43,94.35,3921.3,No,Fiber optic,One year,Mailed check,Loyal,High,1,1,1
+109,14196,72,19.4,1363.25,No,No,Two year,Credit card (automatic),Champion,Low,0,0,2
+110,14197,55,96.75,5238.9,Yes,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+111,14198,52,57.95,3042.25,No,DSL,One year,Credit card (automatic),Loyal,Med,1,0,1
+112,14199,43,91.65,3954.1,No,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,0,0
+113,14200,37,76.5,2868.15,Yes,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+114,14201,64,54.6,3423.5,No,DSL,Two year,Electronic check,Champion,Med,1,0,2
+115,14202,3,89.85,248.4,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+116,14203,36,31.05,1126.35,No,DSL,Two year,Bank transfer (automatic),Regular,Med,1,0,2
+117,14204,10,100.25,1064.65,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+118,14205,41,20.65,835.15,No,No,Two year,Mailed check,Loyal,Low,0,0,2
+119,14206,27,85.2,2151.6,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,1,0
+120,14207,56,99.8,5515.45,No,Fiber optic,One year,Credit card (automatic),Loyal,High,1,1,1
+121,14208,6,20.7,112.75,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+122,14209,3,74.4,229.55,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+123,14210,7,50.7,350.35,No,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+124,14211,4,20.85,62.9,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+125,14212,33,88.95,3027.65,No,Fiber optic,Two year,Electronic check,Regular,High,1,0,2
+126,14213,27,78.05,2135.5,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+127,14214,72,23.55,1723.95,No,No,Two year,Bank transfer (automatic),Champion,Low,0,1,2
+128,14215,1,19.75,19.75,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+129,14216,71,56.45,3985.35,No,DSL,One year,Electronic check,Champion,Med,1,0,1
+130,14217,13,85.95,1215.65,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+131,14218,25,58.6,1502.65,Yes,DSL,Month-to-month,Credit card (automatic),Regular,Med,1,0,0
+132,14219,67,50.55,3260.1,No,DSL,Two year,Bank transfer (automatic),Champion,Med,1,0,2
+133,14220,1,35.45,35.45,Yes,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+134,14221,2,44.35,81.25,Yes,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+135,14222,43,25.7,1188.2,No,No,Two year,Credit card (automatic),Loyal,Low,0,1,2
+136,14223,23,75.0,1778.5,No,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,0,0
+137,14224,64,20.2,1277.75,No,No,Two year,Mailed check,Champion,Low,0,0,2
+138,14225,57,19.6,1170.55,No,No,Two year,Mailed check,Loyal,Low,0,0,2
+139,14226,1,70.45,70.45,Yes,Fiber optic,Month-to-month,Mailed check,New,High,1,0,0
+140,14227,72,88.05,6425.65,No,DSL,Two year,Credit card (automatic),Champion,High,1,1,2
+141,14228,8,71.15,563.65,Yes,DSL,Month-to-month,Electronic check,New,High,1,1,0
+142,14229,61,101.05,5971.25,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+143,14230,64,84.3,5289.05,No,Fiber optic,One year,Credit card (automatic),Champion,High,1,1,1
+144,14231,71,23.95,1756.2,No,No,Two year,Bank transfer (automatic),Champion,Low,0,1,2
+145,14232,65,99.05,6416.7,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+146,14233,3,19.6,61.35,No,No,One year,Mailed check,New,Low,0,0,1
+147,14234,1,45.65,45.65,Yes,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+148,14235,30,64.5,1929.95,No,DSL,One year,Credit card (automatic),Regular,Med,1,0,1
+149,14236,15,69.5,1071.4,No,DSL,Month-to-month,Mailed check,Regular,Med,1,0,0
+150,14237,8,68.55,564.35,No,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+151,14238,7,95.0,655.5,Yes,Fiber optic,Month-to-month,Mailed check,New,High,1,1,0
+152,14239,70,108.15,7930.55,No,Fiber optic,One year,Credit card (automatic),Champion,High,1,1,1
+153,14240,62,86.1,5215.25,No,DSL,Two year,Electronic check,Champion,High,1,0,2
+154,14241,6,19.7,113.5,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+155,14242,14,80.9,1152.8,No,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,0,0
+156,14243,22,84.15,1821.95,No,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,1,0
+157,14244,22,20.15,419.9,No,No,One year,Mailed check,Regular,Low,0,0,1
+158,14245,16,64.25,1024.0,No,DSL,Two year,Mailed check,Regular,Med,1,0,2
+159,14246,10,25.7,251.6,No,No,Two year,Bank transfer (automatic),New,Low,0,1,2
+160,14247,13,56.0,764.55,No,DSL,Month-to-month,Electronic check,Regular,Med,1,0,0
+161,14248,20,82.4,1592.35,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+162,14249,2,69.7,135.2,No,Fiber optic,Month-to-month,Electronic check,New,Med,1,0,0
+163,14250,53,73.9,3958.25,No,DSL,Two year,Bank transfer (automatic),Loyal,High,1,1,2
+164,14251,11,20.6,233.9,No,No,One year,Mailed check,New,Low,0,0,1
+165,14252,69,19.9,1363.45,No,No,Two year,Mailed check,Champion,Low,0,0,2
+166,14253,4,70.9,273.0,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),New,High,1,0,0
+167,14254,72,89.05,6254.45,No,DSL,Two year,Bank transfer (automatic),Champion,High,1,1,2
+168,14255,58,45.3,2651.2,Yes,DSL,Month-to-month,Electronic check,Loyal,Med,1,0,0
+169,14256,16,20.4,321.4,No,No,Month-to-month,Electronic check,Regular,Low,0,0,0
+170,14257,43,84.25,3539.25,No,Fiber optic,One year,Bank transfer (automatic),Loyal,High,1,0,1
+171,14258,2,104.4,242.8,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+172,14259,14,81.95,1181.75,No,DSL,Two year,Mailed check,Regular,High,1,0,2
+173,14260,53,94.85,5000.2,Yes,Fiber optic,One year,Bank transfer (automatic),Loyal,High,1,0,1
+174,14261,32,20.55,654.55,No,No,One year,Bank transfer (automatic),Regular,Low,0,0,1
+175,14262,34,24.7,780.2,No,No,Month-to-month,Electronic check,Regular,Low,0,1,0
+176,14263,15,74.45,1145.7,Yes,Fiber optic,Month-to-month,Mailed check,Regular,High,1,1,0
+177,14264,7,76.45,503.6,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),New,High,1,0,0
+178,14265,15,105.35,1559.25,No,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,1,0
+179,14266,61,20.55,1252.0,No,No,One year,Credit card (automatic),Champion,Low,0,0,1
+180,14267,1,29.95,29.95,Yes,DSL,Month-to-month,Bank transfer (automatic),New,Low,1,0,0
+181,14268,1,45.3,45.3,No,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+182,14269,8,84.5,662.65,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),New,High,1,1,0
+183,14270,33,74.75,2453.3,No,DSL,One year,Credit card (automatic),Regular,High,1,0,1
+184,14271,13,79.25,1111.65,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+185,14272,1,24.8,24.8,Yes,DSL,Month-to-month,Electronic check,New,Low,1,0,0
+186,14273,20,51.8,1023.85,No,DSL,Month-to-month,Mailed check,Regular,Med,1,0,0
+187,14274,3,30.4,82.15,No,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+188,14275,13,19.65,244.8,No,No,One year,Electronic check,Regular,Low,0,0,1
+189,14276,40,56.6,2379.1,No,DSL,Month-to-month,Credit card (automatic),Loyal,Med,1,1,0
+190,14277,43,71.9,3173.35,No,DSL,One year,Credit card (automatic),Loyal,High,1,1,1
+191,14278,6,91.0,531.0,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+192,14279,69,19.75,1375.4,No,No,Two year,Bank transfer (automatic),Champion,Low,0,0,2
+193,14280,72,109.7,8129.3,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+194,14281,59,19.3,1192.7,No,No,Two year,Credit card (automatic),Loyal,Low,0,0,2
+195,14282,20,96.55,1901.65,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+196,14283,24,24.1,587.4,No,No,Two year,Bank transfer (automatic),Regular,Low,0,1,2
+197,14284,59,111.35,6519.75,No,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+198,14285,72,112.25,8041.65,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+199,14286,1,20.75,20.75,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+200,14287,27,101.9,2681.15,No,Fiber optic,One year,Credit card (automatic),Regular,High,1,0,1
+201,14288,14,80.05,1112.3,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,0,0
+202,14289,71,105.55,7405.5,No,Fiber optic,Two year,Electronic check,Champion,High,1,1,2
+203,14290,13,78.3,1033.95,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,0,0
+204,14291,44,68.85,2958.95,No,Fiber optic,Month-to-month,Credit card (automatic),Loyal,Med,1,0,0
+205,14292,33,79.95,2684.85,No,Fiber optic,One year,Bank transfer (automatic),Regular,High,1,0,1
+206,14293,72,55.45,4179.2,No,DSL,Two year,Credit card (automatic),Champion,Med,1,0,2
+207,14294,1,79.9,79.9,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+208,14295,19,106.6,1934.45,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+209,14296,64,102.45,6654.1,No,Fiber optic,One year,Credit card (automatic),Champion,High,1,0,1
+210,14297,2,46.0,84.5,Yes,DSL,Month-to-month,Credit card (automatic),New,Med,1,0,0
+211,14298,1,25.25,25.25,No,DSL,Month-to-month,Electronic check,New,Low,1,0,0
+212,14299,61,19.75,1124.2,No,No,Two year,Mailed check,Champion,Low,0,0,2
+213,14300,29,20.0,540.05,No,No,One year,Electronic check,Regular,Low,0,0,1
+214,14301,23,86.8,1975.85,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+215,14302,57,58.75,3437.45,No,DSL,Month-to-month,Bank transfer (automatic),Loyal,Med,1,0,0
+216,14303,72,45.25,3139.8,No,DSL,Two year,Credit card (automatic),Champion,Med,1,0,2
+217,14304,66,56.6,3789.2,No,DSL,Two year,Bank transfer (automatic),Champion,Med,1,0,2
+218,14305,65,84.2,5324.5,No,DSL,Two year,Bank transfer (automatic),Champion,High,1,1,2
+219,14306,8,80.0,624.6,No,Fiber optic,Month-to-month,Bank transfer (automatic),New,High,1,0,0
+220,14307,4,70.15,268.35,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+221,14308,71,24.75,1836.9,No,No,Two year,Bank transfer (automatic),Champion,Low,0,1,2
+222,14309,1,20.2,20.2,No,No,One year,Electronic check,New,Low,0,0,1
+223,14310,4,50.05,179.35,Yes,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+224,14311,12,19.35,219.35,No,No,One year,Bank transfer (automatic),New,Low,0,0,1
+225,14312,24,50.6,1288.75,No,DSL,One year,Mailed check,Regular,Med,1,0,1
+226,14313,31,81.15,2545.75,No,DSL,One year,Mailed check,Regular,High,1,0,1
+227,14314,1,55.2,55.2,Yes,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+228,14315,30,89.9,2723.15,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,1,0
+229,14316,47,85.3,4107.25,No,DSL,Two year,Credit card (automatic),Loyal,High,1,1,2
+230,14317,54,108.0,5760.65,No,Fiber optic,Two year,Credit card (automatic),Loyal,High,1,1,2
+231,14318,50,93.5,4747.5,No,Fiber optic,Month-to-month,Credit card (automatic),Loyal,High,1,0,0
+232,14319,1,84.6,84.6,Yes,Fiber optic,Month-to-month,Mailed check,New,High,1,0,0
+233,14320,72,20.25,1566.9,No,No,Two year,Credit card (automatic),Champion,Low,0,0,2
+234,14321,29,25.15,702.0,No,No,Month-to-month,Electronic check,Regular,Low,0,1,0
+235,14322,2,54.4,114.1,Yes,DSL,Month-to-month,Mailed check,New,Med,1,1,0
+236,14323,10,29.6,299.05,No,DSL,Two year,Mailed check,New,Low,1,0,2
+237,14324,18,73.15,1305.95,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+238,14325,11,95.0,1120.3,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+239,14326,16,19.75,284.35,No,No,Two year,Mailed check,Regular,Low,0,0,2
+240,14327,72,86.6,6350.5,No,DSL,Two year,Bank transfer (automatic),Champion,High,1,1,2
+241,14328,72,109.2,7878.3,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+242,14329,41,74.7,3187.65,No,DSL,One year,Credit card (automatic),Loyal,High,1,0,1
+243,14330,65,94.4,6126.15,No,Fiber optic,Month-to-month,Electronic check,Champion,High,1,0,0
+244,14331,13,54.8,731.3,No,DSL,Month-to-month,Electronic check,Regular,Med,1,0,0
+245,14332,4,75.35,273.4,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+246,14333,41,65.0,2531.8,No,DSL,One year,Mailed check,Loyal,Med,1,1,1
+247,14334,15,74.4,1074.3,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+248,14335,1,48.55,48.55,Yes,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+249,14336,42,99.0,4298.45,No,Fiber optic,One year,Electronic check,Loyal,High,1,1,1
+250,14337,51,93.5,4619.55,No,Fiber optic,One year,Electronic check,Loyal,High,1,0,1
+251,14338,2,70.4,147.15,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+252,14339,1,40.2,40.2,Yes,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+253,14340,32,83.7,2633.3,No,DSL,One year,Credit card (automatic),Regular,High,1,1,1
+254,14341,10,19.85,193.05,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+255,14342,67,59.55,4103.9,No,DSL,Two year,Electronic check,Champion,Med,1,0,2
+256,14343,61,115.1,7008.15,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+257,14344,50,114.35,5791.1,No,Fiber optic,One year,Credit card (automatic),Loyal,High,1,1,1
+258,14345,2,44.6,80.55,Yes,DSL,Month-to-month,Credit card (automatic),New,Med,1,0,0
+259,14346,29,45.0,1228.65,No,DSL,Month-to-month,Electronic check,Regular,Med,1,0,0
+260,14347,3,41.15,132.2,Yes,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+261,14348,13,106.9,1364.3,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+262,14349,57,89.85,4925.35,No,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+263,14350,31,49.85,1520.1,No,DSL,Two year,Bank transfer (automatic),Regular,Med,1,0,2
+264,14351,45,113.3,5032.25,No,Fiber optic,One year,Mailed check,Loyal,High,1,1,1
+265,14352,61,88.1,5526.75,No,DSL,Two year,Mailed check,Champion,High,1,1,2
+266,14353,50,24.9,1195.25,No,No,Two year,Bank transfer (automatic),Loyal,Low,0,1,2
+267,14354,19,105.0,2007.25,No,Fiber optic,Month-to-month,Mailed check,Regular,High,1,0,0
+268,14355,59,19.35,1099.6,Yes,No,Two year,Mailed check,Loyal,Low,0,0,2
+269,14356,71,24.25,1732.95,No,No,Two year,Credit card (automatic),Champion,Low,0,1,2
+270,14357,16,94.45,1511.2,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+271,14358,57,59.75,3450.15,No,DSL,Two year,Electronic check,Loyal,Med,1,0,2
+272,14359,1,24.8,24.8,Yes,DSL,Month-to-month,Bank transfer (automatic),New,Low,1,0,0
+273,14360,20,107.05,2172.05,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+274,14361,1,70.6,70.6,Yes,Fiber optic,Month-to-month,Mailed check,New,High,1,0,0
+275,14362,5,85.4,401.1,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+276,14363,52,105.05,5624.85,Yes,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+277,14364,21,64.95,1339.8,No,DSL,Month-to-month,Bank transfer (automatic),Regular,Med,1,0,0
+278,14365,14,55.0,771.95,No,DSL,Month-to-month,Electronic check,Regular,Med,1,0,0
+279,14366,5,50.55,244.75,No,DSL,Month-to-month,Bank transfer (automatic),New,Med,1,0,0
+280,14367,6,55.15,322.9,No,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+281,14368,10,51.2,498.25,No,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+282,14369,1,25.4,25.4,No,No,Month-to-month,Mailed check,New,Low,0,1,0
+283,14370,68,54.45,3687.75,No,DSL,Month-to-month,Mailed check,Champion,Med,1,1,0
+284,14371,18,95.15,1779.95,Yes,Fiber optic,Month-to-month,Mailed check,Regular,High,1,0,0
+285,14372,22,76.0,1783.6,No,Fiber optic,One year,Credit card (automatic),Regular,High,1,1,1
+286,14373,20,44.35,927.15,No,DSL,Month-to-month,Electronic check,Regular,Med,1,0,0
+287,14374,1,70.0,70.0,Yes,Fiber optic,Month-to-month,Electronic check,New,Med,1,0,0
+288,14375,8,74.5,606.55,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+289,14376,10,44.85,435.4,Yes,DSL,Month-to-month,Credit card (automatic),New,Med,1,0,0
+290,14377,24,76.1,1712.7,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+291,14378,35,61.2,2021.2,No,DSL,One year,Mailed check,Regular,Med,1,0,1
+292,14379,23,86.8,1940.8,No,Fiber optic,One year,Mailed check,Regular,High,1,0,1
+293,14380,6,89.35,567.8,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+294,14381,12,19.7,220.35,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+295,14382,1,20.25,20.25,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+296,14383,71,76.05,5436.45,No,Fiber optic,Two year,Electronic check,Champion,High,1,0,2
+297,14384,35,100.8,3437.5,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+298,14385,40,74.55,3015.75,No,DSL,Month-to-month,Electronic check,Loyal,High,1,1,0
+299,14386,1,73.6,73.6,Yes,Fiber optic,Month-to-month,Mailed check,New,High,1,0,0
+300,14387,23,64.9,1509.8,No,DSL,One year,Bank transfer (automatic),Regular,Med,1,0,1
+301,14388,4,95.45,396.1,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+302,14389,4,90.4,356.65,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+303,14390,68,60.3,4109.0,No,DSL,Two year,Credit card (automatic),Champion,Med,1,0,2
+304,14391,38,81.85,3141.7,No,Fiber optic,Month-to-month,Mailed check,Loyal,High,1,1,0
+305,14392,52,24.8,1229.1,No,No,Two year,Mailed check,Loyal,Low,0,1,2
+306,14393,32,74.9,2303.35,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+307,14394,29,75.55,2054.4,No,DSL,Two year,Mailed check,Regular,High,1,0,2
+308,14395,38,101.15,3741.85,No,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+309,14396,48,78.75,3682.45,No,DSL,One year,Credit card (automatic),Loyal,High,1,1,1
+310,14397,1,19.25,19.25,No,No,Month-to-month,Bank transfer (automatic),New,Low,0,0,0
+311,14398,22,89.05,1886.25,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+312,14399,43,115.05,4895.1,No,Fiber optic,Two year,Credit card (automatic),Loyal,High,1,1,2
+313,14400,5,69.35,341.6,No,Fiber optic,Month-to-month,Electronic check,New,Med,1,0,0
+314,14401,5,80.6,415.55,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+315,14402,51,110.05,5686.4,No,Fiber optic,One year,Credit card (automatic),Loyal,High,1,1,1
+316,14403,71,19.9,1355.1,No,No,Two year,Credit card (automatic),Champion,Low,0,0,2
+317,14404,38,80.3,3058.65,Yes,DSL,One year,Credit card (automatic),Loyal,High,1,0,1
+318,14405,24,93.15,2231.05,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+319,14406,35,91.5,3236.35,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,1,0
+320,14407,54,82.45,4350.1,Yes,DSL,One year,Bank transfer (automatic),Loyal,High,1,1,1
+321,14408,72,60.0,4264.0,No,DSL,Two year,Electronic check,Champion,Med,1,0,2
+322,14409,1,44.8,44.8,No,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+323,14410,9,48.6,422.3,No,DSL,One year,Mailed check,New,Med,1,0,1
+324,14411,69,60.05,4176.7,No,DSL,Two year,Bank transfer (automatic),Champion,Med,1,0,2
+325,14412,52,102.7,5138.1,No,Fiber optic,Month-to-month,Credit card (automatic),Loyal,High,1,1,0
+326,14413,11,82.9,880.05,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+327,14414,2,70.35,139.05,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+328,14415,28,35.9,973.65,No,DSL,Month-to-month,Electronic check,Regular,Med,1,0,0
+329,14416,17,82.65,1470.05,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,1,0
+330,14417,35,19.85,739.35,No,No,Two year,Mailed check,Regular,Low,0,0,2
+331,14418,8,19.2,161.95,No,No,One year,Mailed check,New,Low,0,0,1
+332,14419,46,94.9,4422.95,No,Fiber optic,One year,Credit card (automatic),Loyal,High,1,1,1
+333,14420,7,73.85,511.25,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+334,14421,2,80.6,155.8,Yes,Fiber optic,Month-to-month,Mailed check,New,High,1,1,0
+335,14422,68,75.8,5293.95,Yes,DSL,One year,Bank transfer (automatic),Champion,High,1,1,1
+336,14423,43,104.6,4759.85,Yes,Fiber optic,Two year,Electronic check,Loyal,High,1,1,2
+337,14424,68,88.15,6148.45,No,DSL,Two year,Electronic check,Champion,High,1,1,2
+338,14425,36,94.8,3565.65,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,0,0
+339,14426,63,103.4,6603.0,Yes,Fiber optic,Month-to-month,Electronic check,Champion,High,1,1,0
+340,14427,32,54.65,1830.1,No,DSL,Month-to-month,Bank transfer (automatic),Regular,Med,1,0,0
+341,14428,71,85.75,6223.8,No,DSL,Two year,Credit card (automatic),Champion,High,1,1,2
+342,14429,66,67.45,4508.65,No,DSL,Month-to-month,Bank transfer (automatic),Champion,Med,1,1,0
+343,14430,63,20.5,1328.15,No,No,One year,Mailed check,Champion,Low,0,0,1
+344,14431,41,20.25,865.0,No,No,One year,Credit card (automatic),Loyal,Low,0,0,1
+345,14432,1,72.1,72.1,No,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+346,14433,2,90.4,168.2,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+347,14434,70,19.45,1303.5,No,No,Two year,Bank transfer (automatic),Champion,Low,0,0,2
+348,14435,23,44.95,996.85,No,DSL,Month-to-month,Electronic check,Regular,Med,1,0,0
+349,14436,64,97.0,6430.9,No,Fiber optic,One year,Bank transfer (automatic),Champion,High,1,0,1
+350,14437,37,62.8,2278.75,No,DSL,Two year,Credit card (automatic),Loyal,Med,1,1,2
+351,14438,17,44.6,681.4,No,DSL,One year,Mailed check,Regular,Med,1,0,1
+352,14439,7,89.15,574.35,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+353,14440,4,84.8,371.9,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),New,High,1,1,0
+354,14441,21,41.9,840.1,Yes,DSL,Month-to-month,Electronic check,Regular,Med,1,0,0
+355,14442,10,80.25,846.0,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),New,High,1,0,0
+356,14443,16,54.1,889.0,No,DSL,Month-to-month,Electronic check,Regular,Med,1,1,0
+357,14444,64,105.25,6823.4,No,Fiber optic,Two year,Electronic check,Champion,High,1,1,2
+358,14445,27,30.75,805.1,Yes,DSL,Month-to-month,Credit card (automatic),Regular,Med,1,0,0
+359,14446,42,97.1,4016.75,No,Fiber optic,One year,Electronic check,Loyal,High,1,1,1
+360,14447,5,20.2,83.75,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+361,14448,41,98.8,3959.15,No,Fiber optic,Two year,Bank transfer (automatic),Loyal,High,1,0,2
+362,14449,58,50.3,2878.55,No,DSL,One year,Credit card (automatic),Loyal,Med,1,0,1
+363,14450,47,20.55,945.7,No,No,Two year,Mailed check,Loyal,Low,0,0,2
+364,14451,18,75.9,1373.05,No,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,0,0
+365,14452,5,96.5,492.55,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),New,High,1,0,0
+366,14453,23,59.95,1406.0,No,DSL,Month-to-month,Bank transfer (automatic),Regular,Med,1,0,0
+367,14454,1,19.15,19.15,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+368,14455,71,98.65,6962.85,No,Fiber optic,One year,Credit card (automatic),Champion,High,1,1,1
+369,14456,72,112.6,8126.65,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+370,14457,33,20.6,690.25,No,No,One year,Mailed check,Regular,Low,0,0,1
+371,14458,2,85.65,181.5,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+372,14459,24,35.75,830.8,No,DSL,Two year,Mailed check,Regular,Med,1,0,2
+373,14460,56,99.75,5608.4,No,Fiber optic,One year,Credit card (automatic),Loyal,High,1,1,1
+374,14461,37,96.1,3646.8,No,Fiber optic,Month-to-month,Credit card (automatic),Loyal,High,1,0,0
+375,14462,43,85.1,3662.25,No,DSL,One year,Credit card (automatic),Loyal,High,1,1,1
+376,14463,1,25.35,25.35,No,DSL,Month-to-month,Mailed check,New,Low,1,0,0
+377,14526,1,55.05,55.05,No,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+378,14464,25,104.95,2566.5,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,1,0
+379,14465,61,89.65,5308.7,No,DSL,Two year,Electronic check,Champion,High,1,1,2
+380,14466,17,86.75,1410.25,No,Fiber optic,One year,Electronic check,Regular,High,1,1,1
+381,14467,41,86.2,3339.05,No,Fiber optic,One year,Bank transfer (automatic),Loyal,High,1,0,1
+382,14468,1,50.65,50.65,Yes,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+383,14469,72,64.8,4732.35,No,DSL,Two year,Bank transfer (automatic),Champion,Med,1,0,2
+384,14470,1,90.85,90.85,Yes,Fiber optic,Month-to-month,Credit card (automatic),New,High,1,1,0
+385,14471,48,108.1,5067.45,No,Fiber optic,Two year,Bank transfer (automatic),Loyal,High,1,1,2
+386,14472,11,19.95,214.75,Yes,No,Month-to-month,Mailed check,New,Low,0,0,0
+387,14473,55,85.45,4874.7,Yes,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+388,14474,42,54.75,2348.45,No,DSL,One year,Electronic check,Loyal,Med,1,0,1
+389,14475,44,90.4,4063.0,No,Fiber optic,Month-to-month,Mailed check,Loyal,High,1,1,0
+390,14476,1,44.0,44.0,No,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+391,14477,27,95.6,2595.25,No,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,1,0
+392,14478,27,84.8,2309.55,No,DSL,Month-to-month,Bank transfer (automatic),Regular,High,1,1,0
+393,14479,2,44.3,89.3,No,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+394,14480,19,19.9,367.55,No,No,Month-to-month,Mailed check,Regular,Low,0,0,0
+395,14481,42,95.05,3944.5,No,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+396,14482,66,90.05,5965.95,No,DSL,Two year,Credit card (automatic),Champion,High,1,1,2
+397,14483,33,109.9,3694.7,No,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,1,0
+398,14484,34,73.95,2524.45,Yes,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,0,0
+399,14485,33,54.6,1803.7,No,DSL,Month-to-month,Electronic check,Regular,Med,1,0,0
+400,14486,23,20.05,415.1,No,No,One year,Mailed check,Regular,Low,0,0,1
+401,14487,32,19.75,624.15,No,No,One year,Bank transfer (automatic),Regular,Low,0,0,1
+402,14488,11,20.05,237.7,No,No,One year,Credit card (automatic),New,Low,0,0,1
+403,14489,69,99.45,7007.6,Yes,Fiber optic,Month-to-month,Credit card (automatic),Champion,High,1,1,0
+404,14490,68,55.9,3848.8,No,DSL,One year,Bank transfer (automatic),Champion,Med,1,0,1
+405,14491,20,19.7,419.4,No,No,Two year,Mailed check,Regular,Low,0,0,2
+406,14492,72,19.8,1468.75,No,No,Two year,Credit card (automatic),Champion,Low,0,0,2
+407,14493,60,95.4,5812.0,No,Fiber optic,One year,Bank transfer (automatic),Loyal,High,1,1,1
+408,14494,32,93.95,2861.45,No,Fiber optic,Month-to-month,Mailed check,Regular,High,1,0,0
+409,14495,1,19.9,19.9,Yes,No,Month-to-month,Mailed check,New,Low,0,0,0
+410,14496,1,19.6,19.6,Yes,No,Month-to-month,Mailed check,New,Low,0,0,0
+411,14497,3,81.35,233.7,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+412,14498,46,24.45,1066.15,No,No,One year,Bank transfer (automatic),Loyal,Low,0,1,1
+413,14499,29,74.95,2149.05,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+414,14500,51,87.35,4473.0,No,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+415,14501,48,70.65,3545.05,No,Fiber optic,Month-to-month,Bank transfer (automatic),Loyal,High,1,0,0
+416,14502,16,73.25,1195.75,No,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,0,0
+417,14503,70,98.7,6858.9,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+418,14504,40,24.8,1024.7,No,No,Two year,Mailed check,Loyal,Low,0,1,2
+419,14505,22,83.3,1845.9,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+420,14506,1,75.3,75.3,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),New,High,1,0,0
+421,14507,5,24.3,132.25,No,No,Month-to-month,Mailed check,New,Low,0,1,0
+422,14508,7,69.85,515.45,No,Fiber optic,Month-to-month,Bank transfer (automatic),New,Med,1,0,0
+423,14509,29,100.55,2830.45,No,Fiber optic,One year,Credit card (automatic),Regular,High,1,1,1
+424,14510,44,25.7,1110.5,No,No,One year,Mailed check,Loyal,Low,0,1,1
+425,14511,10,40.7,449.3,No,DSL,Month-to-month,Bank transfer (automatic),New,Med,1,0,0
+426,14512,55,51.65,2838.55,No,DSL,Month-to-month,Bank transfer (automatic),Loyal,Med,1,1,0
+427,14513,52,105.1,5376.4,No,Fiber optic,One year,Bank transfer (automatic),Loyal,High,1,1,1
+428,14514,10,85.95,858.6,No,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+429,14515,18,75.6,1395.05,No,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,1,0
+430,14516,68,58.25,3975.7,No,DSL,One year,Bank transfer (automatic),Champion,Med,1,1,1
+431,14517,61,19.4,1182.55,Yes,No,Month-to-month,Mailed check,Champion,Low,0,0,0
+432,14518,72,65.2,4784.45,No,DSL,Two year,Credit card (automatic),Champion,Med,1,0,2
+433,14519,2,53.45,119.5,No,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+434,14520,12,45.4,518.9,Yes,DSL,Month-to-month,Bank transfer (automatic),New,Med,1,0,0
+435,14521,41,19.75,899.45,No,No,Two year,Electronic check,Loyal,Low,0,0,2
+436,14522,26,44.45,1183.8,No,DSL,Month-to-month,Credit card (automatic),Regular,Med,1,0,0
+437,14523,36,20.85,720.05,No,No,One year,Bank transfer (automatic),Regular,Low,0,0,1
+438,14524,72,114.05,8468.2,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+439,14525,35,89.85,3161.2,No,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,1,0
+440,14527,16,112.95,1882.55,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+441,14528,49,101.55,5070.4,No,Fiber optic,Month-to-month,Credit card (automatic),Loyal,High,1,1,0
+442,14529,54,114.65,6049.5,No,Fiber optic,One year,Mailed check,Loyal,High,1,1,1
+443,14530,18,64.8,1166.7,No,DSL,Month-to-month,Electronic check,Regular,Med,1,1,0
+444,14531,36,80.4,2937.65,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+445,14532,60,105.9,6396.45,Yes,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+446,14533,1,69.55,69.55,Yes,Fiber optic,Month-to-month,Mailed check,New,Med,1,0,0
+447,14534,52,25.05,1270.25,No,No,Two year,Bank transfer (automatic),Loyal,Low,0,1,2
+448,14535,8,94.75,759.55,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+449,14536,72,105.5,7611.55,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,0,2
+450,14537,64,24.7,1642.75,No,No,One year,Mailed check,Champion,Low,0,1,1
+451,14538,22,69.75,1545.4,No,DSL,Month-to-month,Mailed check,Regular,Med,1,0,0
+452,14539,60,60.2,3582.4,No,DSL,Month-to-month,Bank transfer (automatic),Loyal,Med,1,0,0
+453,14540,28,81.05,2227.1,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+454,14541,61,24.4,1417.9,No,No,Two year,Mailed check,Champion,Low,0,1,2
+455,14542,24,104.15,2494.65,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+456,14543,28,92.9,2768.35,No,Fiber optic,One year,Bank transfer (automatic),Regular,High,1,0,1
+457,14544,30,80.8,2369.3,No,DSL,Two year,Bank transfer (automatic),Regular,High,1,0,2
+458,14545,2,20.0,38.0,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+459,14546,1,75.1,75.1,No,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+460,14547,6,19.65,100.9,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+461,14548,24,69.45,1614.05,No,DSL,Month-to-month,Bank transfer (automatic),Regular,Med,1,0,0
+462,14549,4,101.15,385.9,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+463,14550,7,99.8,673.25,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+464,14551,72,116.05,8404.9,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+465,14552,70,40.05,2799.75,No,DSL,Two year,Mailed check,Champion,Med,1,0,2
+466,14553,64,102.1,6538.45,No,Fiber optic,Two year,Electronic check,Champion,High,1,1,2
+467,14554,72,89.7,6588.95,No,Fiber optic,One year,Electronic check,Champion,High,1,1,1
+468,14555,44,19.9,868.1,No,No,Two year,Mailed check,Loyal,Low,0,0,2
+469,14556,13,55.95,734.35,Yes,DSL,Month-to-month,Electronic check,Regular,Med,1,0,0
+470,14557,17,20.65,330.6,No,No,One year,Mailed check,Regular,Low,0,0,1
+471,14558,1,55.0,55.0,Yes,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+472,14559,9,70.05,564.4,No,DSL,Month-to-month,Mailed check,New,High,1,0,0
+473,14560,24,53.6,1315.35,No,DSL,Month-to-month,Mailed check,Regular,Med,1,0,0
+474,14561,1,74.7,74.7,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+475,14562,24,80.25,1861.5,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+476,14563,35,76.05,2747.2,No,DSL,Month-to-month,Electronic check,Regular,High,1,0,0
+477,14564,7,75.7,554.05,No,DSL,Month-to-month,Electronic check,New,High,1,0,0
+478,14565,5,96.1,453.4,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+479,14566,15,69.0,994.8,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,Med,1,0,0
+480,14567,11,19.65,225.75,No,No,Two year,Mailed check,New,Low,0,0,2
+481,14568,48,45.3,2145.0,Yes,DSL,Month-to-month,Bank transfer (automatic),Loyal,Med,1,0,0
+482,14569,20,81.45,1671.6,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+483,14570,72,108.5,8003.8,No,Fiber optic,One year,Bank transfer (automatic),Champion,High,1,1,1
+484,14571,8,83.55,680.05,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+485,14572,72,84.5,6130.85,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+486,14573,15,100.15,1415.0,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+487,14574,72,88.6,6201.95,No,DSL,Two year,Bank transfer (automatic),Champion,High,1,1,2
+488,14575,0,52.55,1397.475,No,DSL,Two year,Bank transfer (automatic),New,Med,1,0,2
+489,14576,1,74.35,74.35,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+490,14577,63,104.8,6597.25,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+491,14578,2,59.0,114.15,No,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+492,14579,2,74.4,139.4,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+493,14580,61,64.05,3902.6,No,DSL,One year,Bank transfer (automatic),Champion,Med,1,1,1
+494,14581,1,20.4,20.4,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+495,14582,22,43.75,903.6,Yes,DSL,One year,Bank transfer (automatic),Regular,Med,1,0,1
+496,14583,28,60.9,1785.65,No,DSL,Month-to-month,Mailed check,Regular,Med,1,0,0
+497,14584,70,19.8,1397.65,No,No,Two year,Bank transfer (automatic),Champion,Low,0,0,2
+498,14585,5,28.45,131.05,Yes,DSL,Month-to-month,Electronic check,New,Low,1,0,0
+499,14586,12,99.7,1238.45,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),New,High,1,1,0
+500,14587,34,116.25,3899.05,No,Fiber optic,One year,Credit card (automatic),Regular,High,1,1,1
+501,14588,71,80.7,5676.0,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+502,14589,70,65.2,4543.15,No,DSL,One year,Bank transfer (automatic),Champion,Med,1,1,1
+503,14590,52,84.05,4326.8,No,Fiber optic,Month-to-month,Bank transfer (automatic),Loyal,High,1,0,0
+504,14591,69,79.45,5502.55,No,DSL,Two year,Credit card (automatic),Champion,High,1,1,2
+505,14592,20,94.1,1782.4,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+506,14593,11,78.0,851.8,No,Fiber optic,Month-to-month,Mailed check,New,High,1,1,0
+507,14594,2,94.2,167.5,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+508,14595,6,80.5,502.85,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+509,14596,1,19.85,19.85,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+510,14597,20,94.3,1818.3,No,Fiber optic,One year,Credit card (automatic),Regular,High,1,0,1
+511,14598,61,106.45,6300.15,No,Fiber optic,Month-to-month,Electronic check,Champion,High,1,1,0
+512,14599,5,74.35,334.8,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+513,14600,56,105.45,5916.95,No,Fiber optic,Month-to-month,Bank transfer (automatic),Loyal,High,1,1,0
+514,14601,30,95.0,2852.4,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,1,0
+515,14602,40,104.8,4131.95,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),Loyal,High,1,1,0
+516,14603,28,54.3,1546.3,No,DSL,One year,Mailed check,Regular,Med,1,0,1
+517,14604,5,70.05,302.6,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+518,14605,27,75.2,1929.35,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,0,0
+519,14606,12,20.05,265.45,No,No,Month-to-month,Credit card (automatic),New,Low,0,0,0
+520,14607,67,105.4,6989.45,No,Fiber optic,One year,Electronic check,Champion,High,1,1,1
+521,14608,29,51.6,1442.0,No,DSL,Month-to-month,Electronic check,Regular,Med,1,1,0
+522,14609,55,85.5,4713.4,No,Fiber optic,Month-to-month,Bank transfer (automatic),Loyal,High,1,1,0
+523,14610,23,75.6,1758.6,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,1,0
+524,14611,34,100.05,3480.0,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+525,14612,52,91.25,4738.3,No,Fiber optic,One year,Electronic check,Loyal,High,1,0,1
+526,14613,72,115.75,8399.15,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+527,14614,58,94.7,5430.35,No,Fiber optic,One year,Credit card (automatic),Loyal,High,1,1,1
+528,14615,35,19.6,686.95,No,No,Two year,Mailed check,Regular,Low,0,0,2
+529,14616,56,99.9,5706.3,No,Fiber optic,Two year,Bank transfer (automatic),Loyal,High,1,1,2
+530,14617,24,21.1,490.65,No,No,Two year,Credit card (automatic),Regular,Low,0,0,2
+531,14618,70,20.05,1360.25,No,No,Two year,Credit card (automatic),Champion,Low,0,0,2
+532,14619,2,79.95,174.45,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+533,14620,68,107.15,7379.8,No,Fiber optic,One year,Credit card (automatic),Champion,High,1,1,1
+534,14621,1,85.0,85.0,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+535,14622,12,89.55,1021.75,No,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+536,14623,63,81.55,5029.05,No,Fiber optic,Month-to-month,Bank transfer (automatic),Champion,High,1,1,0
+537,14624,33,58.45,1955.4,No,DSL,One year,Mailed check,Regular,Med,1,0,1
+538,14625,69,95.65,6744.2,No,Fiber optic,One year,Credit card (automatic),Champion,High,1,0,1
+539,14626,60,80.6,4946.7,No,DSL,Two year,Bank transfer (automatic),Loyal,High,1,0,2
+540,14627,72,113.1,8248.5,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+541,14628,11,58.95,601.6,No,DSL,Month-to-month,Mailed check,New,Med,1,1,0
+542,14629,1,19.55,19.55,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+543,14630,10,86.05,834.1,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),New,High,1,1,0
+544,14631,13,45.55,597.0,Yes,DSL,Month-to-month,Credit card (automatic),Regular,Med,1,0,0
+545,14632,34,78.95,2647.2,No,Fiber optic,One year,Bank transfer (automatic),Regular,High,1,0,1
+546,14633,39,86.3,3266.0,Yes,Fiber optic,Month-to-month,Mailed check,Loyal,High,1,0,0
+547,14634,65,105.05,6744.25,No,Fiber optic,One year,Bank transfer (automatic),Champion,High,1,1,1
+548,14635,50,101.9,5265.5,No,Fiber optic,One year,Bank transfer (automatic),Loyal,High,1,1,1
+549,14636,15,19.75,311.6,No,No,Month-to-month,Mailed check,Regular,Low,0,0,0
+550,14637,72,110.3,7966.9,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+551,14638,72,115.6,8220.4,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+552,14639,55,19.35,1153.25,No,No,Two year,Bank transfer (automatic),Loyal,Low,0,0,2
+553,14640,23,25.6,514.75,No,No,Two year,Credit card (automatic),Regular,Low,0,1,2
+554,14641,32,80.35,2596.15,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,1,0
+555,14642,56,68.75,3808.0,No,DSL,One year,Bank transfer (automatic),Loyal,Med,1,1,1
+556,14643,1,19.9,19.9,No,No,Month-to-month,Bank transfer (automatic),New,Low,0,0,0
+557,14644,38,70.6,2708.2,No,DSL,One year,Mailed check,Loyal,High,1,0,1
+558,14645,11,70.2,760.05,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+559,14646,1,49.3,49.3,No,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+560,14647,56,107.25,6033.3,No,Fiber optic,One year,Electronic check,Loyal,High,1,1,1
+561,14648,3,23.6,89.05,No,No,Month-to-month,Mailed check,New,Low,0,1,0
+562,14649,7,69.7,516.15,No,DSL,Month-to-month,Credit card (automatic),New,Med,1,0,0
+563,14650,59,99.5,5861.75,No,Fiber optic,Two year,Credit card (automatic),Loyal,High,1,1,2
+564,14651,7,64.3,445.95,No,DSL,Month-to-month,Bank transfer (automatic),New,Med,1,0,0
+565,14652,71,70.85,4973.4,No,DSL,Two year,Credit card (automatic),Champion,High,1,0,2
+566,14653,15,101.9,1667.25,No,Fiber optic,One year,Electronic check,Regular,High,1,0,1
+567,14654,71,73.5,5357.75,No,DSL,Two year,Credit card (automatic),Champion,High,1,1,2
+568,14655,35,100.25,3527.6,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+569,14656,11,40.4,422.6,No,DSL,One year,Credit card (automatic),New,Med,1,0,1
+570,14657,60,19.25,1103.25,No,No,Two year,Credit card (automatic),Loyal,Low,0,0,2
+571,14658,47,59.6,2754.0,No,DSL,Two year,Bank transfer (automatic),Loyal,Med,1,1,2
+572,14659,11,64.9,697.25,No,DSL,One year,Credit card (automatic),New,Med,1,0,1
+573,14660,56,100.3,5614.45,Yes,Fiber optic,One year,Credit card (automatic),Loyal,High,1,1,1
+574,14661,28,110.85,3204.4,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+575,14662,61,81.05,4747.65,No,DSL,Two year,Mailed check,Champion,High,1,0,2
+576,14663,31,98.05,3082.1,No,Fiber optic,One year,Bank transfer (automatic),Regular,High,1,1,1
+577,14664,9,70.5,597.9,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+578,14665,35,94.55,3365.4,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+579,14666,2,19.65,38.8,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+580,14667,12,19.0,233.55,Yes,No,Month-to-month,Mailed check,New,Low,0,0,0
+581,14668,1,75.3,75.3,Yes,Fiber optic,Month-to-month,Mailed check,New,High,1,0,0
+582,14669,4,89.2,346.2,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+583,14670,1,19.0,19.0,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+584,14671,3,20.0,61.7,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+585,14672,1,85.7,85.7,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+586,14673,52,63.25,3342.45,No,DSL,Two year,Credit card (automatic),Loyal,Med,1,0,2
+587,14674,5,20.1,85.1,No,No,One year,Mailed check,New,Low,0,0,1
+588,14675,72,99.15,7422.1,No,Fiber optic,Two year,Electronic check,Champion,High,1,1,2
+589,14676,71,90.4,6668.05,No,DSL,Two year,Electronic check,Champion,High,1,1,2
+590,14677,72,111.9,8071.05,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+591,14678,46,24.9,1174.8,No,No,One year,Electronic check,Loyal,Low,0,1,1
+592,14679,63,83.5,5435.0,No,DSL,Two year,Credit card (automatic),Champion,High,1,1,2
+593,14680,30,84.3,2438.6,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,0,0
+594,14681,1,45.6,45.6,No,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+595,14682,12,61.65,713.75,Yes,DSL,Month-to-month,Mailed check,New,Med,1,1,0
+596,14683,16,54.85,916.15,No,DSL,Two year,Mailed check,Regular,Med,1,0,2
+597,14684,4,65.55,237.2,No,DSL,Month-to-month,Mailed check,New,Med,1,1,0
+598,14685,51,90.35,4614.55,No,Fiber optic,One year,Credit card (automatic),Loyal,High,1,1,1
+599,14686,65,20.4,1414.45,No,No,Two year,Credit card (automatic),Champion,Low,0,0,2
+600,14687,16,74.55,1170.5,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,0,0
+601,14688,2,19.95,47.7,No,No,One year,Mailed check,New,Low,0,0,1
+602,14689,66,74.25,4859.25,No,Fiber optic,One year,Bank transfer (automatic),Champion,High,1,1,1
+603,14690,46,108.65,4903.2,No,Fiber optic,Two year,Electronic check,Loyal,High,1,1,2
+604,14691,32,109.55,3608.0,No,Fiber optic,One year,Bank transfer (automatic),Regular,High,1,1,1
+605,14692,72,86.65,6094.25,No,DSL,Two year,Credit card (automatic),Champion,High,1,1,2
+606,14693,38,81.0,3084.9,No,DSL,Two year,Credit card (automatic),Loyal,High,1,0,2
+607,14694,51,47.85,2356.75,No,DSL,One year,Credit card (automatic),Loyal,Med,1,0,1
+608,14695,72,114.55,8306.05,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+609,14696,65,105.25,6786.4,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),Champion,High,1,1,0
+610,14697,9,29.95,248.95,Yes,DSL,Month-to-month,Electronic check,New,Low,1,0,0
+611,14698,9,65.0,663.05,Yes,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+612,14699,66,20.55,1357.1,No,No,Two year,Mailed check,Champion,Low,0,0,2
+613,14700,44,109.8,4860.35,No,Fiber optic,One year,Credit card (automatic),Loyal,High,1,1,1
+614,14701,50,69.5,3418.2,No,DSL,Two year,Bank transfer (automatic),Loyal,Med,1,1,2
+615,14702,15,48.85,631.4,No,DSL,Month-to-month,Mailed check,Regular,Med,1,1,0
+616,14703,8,25.25,186.3,No,DSL,Month-to-month,Credit card (automatic),New,Low,1,0,0
+617,14704,66,102.85,6976.75,No,Fiber optic,One year,Credit card (automatic),Champion,High,1,1,1
+618,14705,57,87.55,4884.85,No,Fiber optic,Month-to-month,Bank transfer (automatic),Loyal,High,1,1,0
+619,14706,7,78.55,522.95,No,Fiber optic,Month-to-month,Bank transfer (automatic),New,High,1,1,0
+620,14707,10,34.55,362.6,No,DSL,Month-to-month,Bank transfer (automatic),New,Med,1,0,0
+621,14708,62,92.05,5755.8,No,Fiber optic,One year,Electronic check,Champion,High,1,1,1
+622,14709,40,85.05,3355.65,No,Fiber optic,One year,Electronic check,Loyal,High,1,0,1
+623,14710,20,19.7,406.95,No,No,Two year,Mailed check,Regular,Low,0,0,2
+624,14711,7,20.0,137.6,Yes,No,Month-to-month,Bank transfer (automatic),New,Low,0,0,0
+625,14712,25,95.15,2395.7,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+626,14713,23,84.25,1968.1,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+627,14714,66,104.6,6819.45,No,Fiber optic,One year,Credit card (automatic),Champion,High,1,1,1
+628,14715,72,111.65,7943.45,No,Fiber optic,Two year,Electronic check,Champion,High,1,1,2
+629,14716,49,90.05,4547.25,Yes,Fiber optic,Month-to-month,Credit card (automatic),Loyal,High,1,1,0
+630,14717,43,110.75,4687.9,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),Loyal,High,1,1,0
+631,14718,46,55.0,2473.95,No,DSL,Month-to-month,Bank transfer (automatic),Loyal,Med,1,1,0
+632,14719,72,89.85,6562.9,No,DSL,Two year,Credit card (automatic),Champion,High,1,1,2
+633,14720,10,20.35,176.3,No,No,One year,Mailed check,New,Low,0,0,1
+634,14721,40,54.55,2236.2,No,DSL,One year,Bank transfer (automatic),Loyal,Med,1,0,1
+635,14722,65,105.5,6985.65,Yes,Fiber optic,Month-to-month,Electronic check,Champion,High,1,1,0
+636,14723,31,99.45,3109.9,No,Fiber optic,Two year,Bank transfer (automatic),Regular,High,1,0,2
+637,14724,68,70.9,4911.35,No,DSL,Two year,Credit card (automatic),Champion,High,1,1,2
+638,14725,56,104.55,5794.65,Yes,Fiber optic,One year,Bank transfer (automatic),Loyal,High,1,1,1
+639,14726,10,85.25,855.3,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+640,14727,68,25.4,1620.2,No,No,Two year,Bank transfer (automatic),Champion,Low,0,1,2
+641,14728,43,56.15,2499.3,Yes,DSL,Month-to-month,Electronic check,Loyal,Med,1,0,0
+642,14729,1,89.55,89.55,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+643,14730,49,89.85,4287.2,No,Fiber optic,One year,Bank transfer (automatic),Loyal,High,1,0,1
+644,14731,15,25.25,394.85,No,No,Month-to-month,Electronic check,Regular,Low,0,1,0
+645,14732,20,94.55,1899.65,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+646,14733,1,45.7,45.7,Yes,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+647,14734,50,69.65,3442.15,No,DSL,One year,Electronic check,Loyal,Med,1,1,1
+648,14735,2,89.5,161.5,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+649,14736,24,70.0,1732.6,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,Med,1,0,0
+650,14737,3,69.55,222.3,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),New,Med,1,0,0
+651,14738,1,74.6,74.6,Yes,Fiber optic,Month-to-month,Mailed check,New,High,1,0,0
+652,14739,35,20.1,655.3,No,No,Two year,Mailed check,Regular,Low,0,0,2
+653,14740,17,24.8,475.25,No,No,Month-to-month,Mailed check,Regular,Low,0,1,0
+654,14741,8,19.65,164.3,Yes,No,Month-to-month,Electronic check,New,Low,0,0,0
+655,14742,10,95.1,865.1,No,Fiber optic,Month-to-month,Credit card (automatic),New,High,1,0,0
+656,14743,68,88.85,6132.7,No,DSL,Two year,Credit card (automatic),Champion,High,1,1,2
+657,14744,45,78.8,3597.5,No,DSL,One year,Bank transfer (automatic),Loyal,High,1,0,1
+658,14745,2,19.85,35.9,Yes,No,One year,Mailed check,New,Low,0,0,1
+659,14746,37,20.35,697.65,No,No,Month-to-month,Bank transfer (automatic),Loyal,Low,0,0,0
+660,14747,4,24.25,96.05,Yes,DSL,Month-to-month,Mailed check,New,Low,1,0,0
+661,14748,10,45.25,428.7,No,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+662,14749,1,20.05,20.05,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+663,14750,65,69.55,4459.15,No,DSL,Two year,Mailed check,Champion,Med,1,1,2
+664,14751,57,19.5,1167.6,No,No,Two year,Bank transfer (automatic),Loyal,Low,0,0,2
+665,14752,3,74.75,238.1,No,Fiber optic,Month-to-month,Mailed check,New,High,1,0,0
+666,14753,2,69.65,145.15,Yes,Fiber optic,Month-to-month,Electronic check,New,Med,1,0,0
+667,14754,49,30.2,1453.1,No,DSL,Month-to-month,Bank transfer (automatic),Loyal,Med,1,0,0
+668,14755,4,45.65,191.05,Yes,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+669,14756,70,57.8,4039.3,No,DSL,Two year,Bank transfer (automatic),Champion,Med,1,0,2
+670,14757,53,19.85,1039.45,No,No,One year,Bank transfer (automatic),Loyal,Low,0,0,1
+671,14758,53,25.55,1336.1,No,No,Two year,Credit card (automatic),Loyal,Low,0,1,2
+672,14759,1,75.05,75.05,Yes,Fiber optic,Month-to-month,Mailed check,New,High,1,1,0
+673,14760,22,24.85,493.4,No,No,Month-to-month,Credit card (automatic),Regular,Low,0,1,0
+674,14761,52,49.15,2550.9,Yes,DSL,Month-to-month,Electronic check,Loyal,Med,1,0,0
+675,14762,65,110.35,7246.15,No,Fiber optic,Two year,Electronic check,Champion,High,1,1,2
+676,14763,48,24.55,1203.95,No,No,One year,Bank transfer (automatic),Loyal,Low,0,1,1
+677,14764,2,34.7,62.25,Yes,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+678,14765,3,107.95,313.6,No,Fiber optic,Month-to-month,Mailed check,New,High,1,1,0
+679,14766,45,81.4,3775.85,No,Fiber optic,Month-to-month,Bank transfer (automatic),Loyal,High,1,1,0
+680,14767,1,80.0,80.0,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+681,14768,61,73.8,4616.05,No,DSL,Two year,Bank transfer (automatic),Champion,High,1,0,2
+682,14769,3,64.4,195.65,No,DSL,Month-to-month,Credit card (automatic),New,Med,1,0,0
+683,14770,40,103.75,4188.4,No,Fiber optic,One year,Credit card (automatic),Loyal,High,1,1,1
+684,14771,1,71.1,71.1,No,Fiber optic,Month-to-month,Mailed check,New,High,1,0,0
+685,14772,1,49.9,49.9,No,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+686,14773,51,24.6,1266.4,No,No,One year,Bank transfer (automatic),Loyal,Low,0,1,1
+687,14774,2,49.25,91.1,Yes,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+688,14775,52,30.1,1623.4,No,DSL,One year,Mailed check,Loyal,Med,1,0,1
+689,14776,51,83.4,4149.45,No,Fiber optic,Month-to-month,Bank transfer (automatic),Loyal,High,1,1,0
+690,14777,1,20.45,20.45,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+691,14778,31,75.25,2344.5,No,DSL,One year,Bank transfer (automatic),Regular,High,1,1,1
+692,14779,47,20.55,1013.05,No,No,One year,Credit card (automatic),Loyal,Low,0,0,1
+693,14780,3,75.1,270.7,Yes,Fiber optic,Month-to-month,Credit card (automatic),New,High,1,1,0
+694,14781,22,20.05,417.0,No,No,One year,Mailed check,Regular,Low,0,0,1
+695,14782,1,20.65,20.65,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+696,14783,72,85.15,6316.2,No,DSL,Two year,Bank transfer (automatic),Champion,High,1,1,2
+697,14784,3,50.15,168.15,Yes,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+698,14785,47,84.95,4018.05,No,Fiber optic,One year,Bank transfer (automatic),Loyal,High,1,0,1
+699,14786,72,66.5,4811.6,No,DSL,Two year,Credit card (automatic),Champion,Med,1,1,2
+700,14787,66,63.3,4189.7,No,DSL,Two year,Bank transfer (automatic),Champion,Med,1,1,2
+701,14788,35,83.15,2848.45,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+702,14789,29,84.9,2516.2,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+703,14790,2,20.55,33.6,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+704,14791,4,49.25,208.45,No,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+705,14792,25,79.85,2015.35,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,0,0
+706,14793,65,59.6,3739.8,No,DSL,Two year,Mailed check,Champion,Med,1,0,2
+707,14794,27,104.65,2964.0,No,Fiber optic,One year,Bank transfer (automatic),Regular,High,1,1,1
+708,14795,29,75.3,2263.4,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,0,0
+709,14796,29,80.1,2211.8,No,DSL,Month-to-month,Credit card (automatic),Regular,High,1,1,0
+710,14797,1,19.55,19.55,Yes,No,Month-to-month,Mailed check,New,Low,0,0,0
+711,14798,20,81.0,1683.7,No,Fiber optic,Month-to-month,Mailed check,Regular,High,1,0,0
+712,14799,58,24.7,1519.0,No,No,Two year,Credit card (automatic),Loyal,Low,0,1,2
+713,14800,14,86.0,1164.05,No,Fiber optic,Month-to-month,Mailed check,Regular,High,1,1,0
+714,14801,72,25.4,1710.9,No,No,Two year,Mailed check,Champion,Low,0,1,2
+715,14802,46,89.15,4245.55,No,Fiber optic,Month-to-month,Credit card (automatic),Loyal,High,1,1,0
+716,14803,71,58.25,4145.9,No,DSL,Two year,Bank transfer (automatic),Champion,Med,1,0,2
+717,14804,32,85.65,2664.3,No,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,1,0
+718,14805,26,50.35,1277.5,No,DSL,Month-to-month,Credit card (automatic),Regular,Med,1,0,0
+719,14806,68,80.35,5589.3,No,Fiber optic,Month-to-month,Credit card (automatic),Champion,High,1,1,0
+720,14807,2,20.2,34.75,No,No,One year,Mailed check,New,Low,0,0,1
+721,14808,61,20.55,1305.95,No,No,Two year,Credit card (automatic),Champion,Low,0,0,2
+722,14809,4,85.95,381.3,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+723,14810,3,45.35,141.5,Yes,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+724,14811,33,94.5,3105.55,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+725,14812,9,21.25,204.55,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+726,14813,22,26.25,605.9,No,No,Two year,Mailed check,Regular,Low,0,1,2
+727,14814,5,80.85,356.1,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+728,14815,30,91.7,2758.15,Yes,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,1,0
+729,14816,65,74.2,4805.65,No,DSL,Two year,Credit card (automatic),Champion,High,1,1,2
+730,14817,45,87.25,3941.7,Yes,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+731,14818,5,20.35,92.75,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+732,14819,25,75.5,1901.05,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+733,14820,72,79.05,5730.7,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+734,14821,27,90.15,2423.4,No,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,1,0
+735,14822,32,50.6,1653.45,No,DSL,Month-to-month,Credit card (automatic),Regular,Med,1,0,0
+736,14823,30,110.45,3327.05,No,Fiber optic,One year,Credit card (automatic),Regular,High,1,1,1
+737,14824,70,101.0,7085.5,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,0,2
+738,14825,42,79.35,3344.1,No,Fiber optic,Month-to-month,Bank transfer (automatic),Loyal,High,1,1,0
+739,14826,72,89.85,6697.35,No,DSL,Two year,Bank transfer (automatic),Champion,High,1,1,2
+740,14827,47,65.0,2879.9,No,DSL,Two year,Mailed check,Loyal,Med,1,1,2
+741,14828,2,80.45,137.1,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+742,14829,10,98.55,1008.55,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+743,14830,61,24.1,1551.6,No,No,Two year,Mailed check,Champion,Low,0,1,2
+744,14831,5,44.05,202.15,No,DSL,Month-to-month,Credit card (automatic),New,Med,1,0,0
+745,14832,72,110.8,7882.25,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+746,14833,72,114.95,8196.4,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+747,14834,3,75.05,202.9,No,Fiber optic,Month-to-month,Mailed check,New,High,1,0,0
+748,14835,48,19.25,855.1,No,No,Two year,Mailed check,Loyal,Low,0,0,2
+749,14836,63,90.05,5817.0,No,Fiber optic,One year,Credit card (automatic),Champion,High,1,0,1
+750,14837,27,56.7,1652.95,No,DSL,Month-to-month,Mailed check,Regular,Med,1,0,0
+751,14838,70,80.15,5600.15,No,DSL,Two year,Credit card (automatic),Champion,High,1,0,2
+752,14839,7,71.35,515.75,No,DSL,Month-to-month,Credit card (automatic),New,High,1,0,0
+753,14840,0,20.25,1397.475,No,No,Two year,Mailed check,New,Low,0,0,2
+754,14841,2,90.35,190.5,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+755,14842,20,98.55,1842.8,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+756,14843,66,19.7,1253.8,No,No,Two year,Bank transfer (automatic),Champion,Low,0,0,2
+757,14844,3,19.85,57.2,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+758,14845,15,85.9,1269.55,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,0,0
+759,14846,72,90.35,6563.4,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+760,14847,1,20.8,20.8,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+761,14848,22,89.25,1907.85,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+762,14849,3,70.3,208.85,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+763,14850,72,66.85,4758.8,No,DSL,Two year,Bank transfer (automatic),Champion,Med,1,1,2
+764,14851,65,19.9,1292.6,No,No,Two year,Mailed check,Champion,Low,0,0,2
+765,14852,11,35.8,363.15,No,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+766,14853,22,78.85,1600.25,No,Fiber optic,Month-to-month,Mailed check,Regular,High,1,1,0
+767,14854,14,20.4,275.7,No,No,One year,Bank transfer (automatic),Regular,Low,0,0,1
+768,14855,41,74.25,3089.1,No,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,0,0
+769,14856,17,64.8,1175.6,No,DSL,One year,Mailed check,Regular,Med,1,0,1
+770,14857,11,20.45,237.3,No,No,Month-to-month,Credit card (automatic),New,Low,0,0,0
+771,14858,15,93.35,1444.65,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+772,14859,1,19.9,19.9,Yes,No,Month-to-month,Mailed check,New,Low,0,0,0
+773,14860,5,88.9,454.15,Yes,Fiber optic,Month-to-month,Mailed check,New,High,1,0,0
+774,14861,33,95.8,3036.75,Yes,Fiber optic,One year,Electronic check,Regular,High,1,0,1
+775,14862,72,110.65,8065.65,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+776,14863,3,40.3,92.5,No,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+777,14864,2,82.0,184.65,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+778,14865,59,107.0,6152.3,No,Fiber optic,One year,Credit card (automatic),Loyal,High,1,1,1
+779,14866,2,45.35,89.5,Yes,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+780,14867,71,73.35,5154.5,No,DSL,Two year,Credit card (automatic),Champion,High,1,0,2
+781,14868,5,44.8,220.45,No,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+782,14869,27,54.75,1510.3,No,DSL,Month-to-month,Credit card (automatic),Regular,Med,1,0,0
+783,14870,1,52.2,52.2,Yes,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+784,14871,63,40.6,2588.95,No,DSL,One year,Bank transfer (automatic),Champion,Med,1,0,1
+785,14872,46,110.0,4874.8,Yes,Fiber optic,One year,Electronic check,Loyal,High,1,1,1
+786,14873,72,55.3,3983.6,No,DSL,Two year,Bank transfer (automatic),Champion,Med,1,1,2
+787,14874,34,60.85,2003.6,No,DSL,Month-to-month,Bank transfer (automatic),Regular,Med,1,1,0
+788,14875,24,78.4,1832.4,No,DSL,One year,Electronic check,Regular,High,1,1,1
+789,14876,72,69.65,4908.25,No,DSL,Two year,Bank transfer (automatic),Champion,Med,1,1,2
+790,14877,60,59.85,3590.2,No,DSL,Two year,Credit card (automatic),Loyal,Med,1,0,2
+791,14878,68,76.9,5023.0,No,DSL,One year,Credit card (automatic),Champion,High,1,1,1
+792,14879,8,19.85,146.6,No,No,Two year,Mailed check,New,Low,0,0,2
+793,14880,34,67.65,2339.3,No,DSL,Two year,Credit card (automatic),Regular,Med,1,0,2
+794,14881,6,45.0,298.7,No,DSL,Month-to-month,Credit card (automatic),New,Med,1,0,0
+795,14882,2,64.2,143.65,No,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+796,14883,31,81.7,2548.65,No,Fiber optic,One year,Credit card (automatic),Regular,High,1,1,1
+797,14884,20,25.55,507.4,No,No,Month-to-month,Bank transfer (automatic),Regular,Low,0,1,0
+798,14885,1,20.0,20.0,No,No,Month-to-month,Electronic check,New,Low,0,0,0
+799,14886,62,96.75,6125.4,Yes,Fiber optic,One year,Electronic check,Champion,High,1,1,1
+800,14887,70,75.65,5411.4,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+801,14888,10,98.5,1058.25,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+802,14889,39,23.8,903.8,No,No,Two year,Mailed check,Loyal,Low,0,1,2
+803,14890,46,64.2,3009.5,No,DSL,Two year,Credit card (automatic),Loyal,Med,1,0,2
+804,14891,6,85.35,489.45,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+805,14892,72,76.8,5468.45,No,DSL,Two year,Bank transfer (automatic),Champion,High,1,1,2
+806,14893,18,55.2,1058.1,No,DSL,Month-to-month,Credit card (automatic),Regular,Med,1,0,0
+807,14894,71,108.55,7616.0,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+808,14895,40,101.3,4113.1,Yes,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+809,14896,1,69.55,69.55,Yes,Fiber optic,Month-to-month,Electronic check,New,Med,1,0,0
+810,14897,58,103.25,6017.65,Yes,Fiber optic,One year,Bank transfer (automatic),Loyal,High,1,1,1
+811,14898,70,104.0,7250.15,Yes,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+812,14899,42,25.25,1108.2,No,No,Two year,Electronic check,Loyal,Low,0,1,2
+813,14900,34,30.4,938.65,No,DSL,One year,Bank transfer (automatic),Regular,Med,1,0,1
+814,14901,5,20.05,94.15,No,No,Month-to-month,Bank transfer (automatic),New,Low,0,0,0
+815,14902,25,84.6,2088.05,No,Fiber optic,Month-to-month,Mailed check,Regular,High,1,1,0
+816,14903,2,86.2,178.7,Yes,Fiber optic,Month-to-month,Mailed check,New,High,1,0,0
+817,14904,55,103.7,5656.75,No,Fiber optic,One year,Bank transfer (automatic),Loyal,High,1,0,1
+818,14905,21,111.2,2317.1,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+819,14906,70,88.0,5986.45,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+820,14907,61,106.35,6751.35,No,Fiber optic,Month-to-month,Electronic check,Champion,High,1,1,0
+821,14908,43,79.15,3566.6,No,DSL,Two year,Credit card (automatic),Loyal,High,1,0,2
+822,14909,47,103.1,4889.3,No,Fiber optic,One year,Electronic check,Loyal,High,1,1,1
+823,14910,5,63.95,318.1,No,DSL,Month-to-month,Credit card (automatic),New,Med,1,0,0
+824,14911,62,25.8,1563.95,No,No,Two year,Credit card (automatic),Champion,Low,0,1,2
+825,14912,16,89.45,1430.25,Yes,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,0,0
+826,14913,7,95.6,644.35,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),New,High,1,1,0
+827,14914,14,25.55,372.45,No,No,Month-to-month,Mailed check,Regular,Low,0,1,0
+828,14915,60,90.95,5453.4,Yes,Fiber optic,One year,Electronic check,Loyal,High,1,0,1
+829,14916,34,44.85,1442.6,No,DSL,Month-to-month,Electronic check,Regular,Med,1,0,0
+830,14917,50,108.55,5610.7,Yes,Fiber optic,One year,Electronic check,Loyal,High,1,1,1
+831,14918,38,25.05,963.95,No,No,Two year,Credit card (automatic),Loyal,Low,0,1,2
+832,14919,70,74.1,5222.3,No,DSL,One year,Credit card (automatic),Champion,High,1,0,1
+833,14920,37,88.8,3340.55,No,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+834,14921,4,78.85,292.8,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+835,14922,60,93.25,5774.55,No,Fiber optic,Month-to-month,Electronic check,Loyal,High,1,1,0
+836,14923,62,71.4,4487.3,No,DSL,One year,Credit card (automatic),Champion,High,1,0,1
+837,14924,1,44.4,44.4,Yes,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+838,14925,36,79.2,2854.95,No,DSL,Month-to-month,Credit card (automatic),Regular,High,1,0,0
+839,14926,44,20.4,905.55,No,No,Two year,Credit card (automatic),Loyal,Low,0,0,2
+840,14927,55,100.0,5509.3,Yes,Fiber optic,One year,Electronic check,Loyal,High,1,1,1
+841,14928,72,105.0,7589.8,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+842,14929,12,19.8,229.6,Yes,No,One year,Bank transfer (automatic),New,Low,0,0,1
+843,14930,13,30.85,394.1,No,DSL,Month-to-month,Bank transfer (automatic),Regular,Med,1,0,0
+844,14931,1,89.9,89.9,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+845,14932,15,20.55,295.95,No,No,One year,Mailed check,Regular,Low,0,0,1
+846,14933,65,84.85,5459.2,No,DSL,Two year,Bank transfer (automatic),Champion,High,1,0,2
+847,14934,12,33.15,444.75,No,DSL,One year,Credit card (automatic),New,Med,1,0,1
+848,14935,72,92.0,6782.15,No,DSL,Two year,Credit card (automatic),Champion,High,1,1,2
+849,14936,72,89.8,6510.45,No,DSL,Two year,Credit card (automatic),Champion,High,1,1,2
+850,14937,72,115.8,8476.5,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+851,14938,52,85.15,4461.85,No,DSL,Two year,Mailed check,Loyal,High,1,1,2
+852,14939,2,24.85,62.0,No,No,Month-to-month,Mailed check,New,Low,0,1,0
+853,14940,5,64.35,352.65,No,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+854,14941,68,20.5,1424.9,No,No,Two year,Credit card (automatic),Champion,Low,0,0,2
+855,14942,62,100.15,6413.65,Yes,Fiber optic,One year,Electronic check,Champion,High,1,1,1
+856,14943,72,86.05,6309.65,No,DSL,Two year,Credit card (automatic),Champion,High,1,1,2
+857,14944,1,50.8,50.8,Yes,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+858,14945,66,89.0,5898.6,No,Fiber optic,One year,Electronic check,Champion,High,1,1,1
+859,14946,72,64.8,4719.75,No,DSL,Two year,Credit card (automatic),Champion,Med,1,0,2
+860,14947,26,19.8,457.3,No,No,One year,Credit card (automatic),Regular,Low,0,0,1
+861,14948,64,93.4,5822.3,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+862,14949,20,73.65,1463.5,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+863,14950,3,95.1,307.4,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+864,14951,22,94.65,2104.55,Yes,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,1,0
+865,14952,4,80.6,319.15,Yes,Fiber optic,Month-to-month,Mailed check,New,High,1,0,0
+866,14953,62,39.0,2337.45,No,DSL,Two year,Bank transfer (automatic),Champion,Med,1,0,2
+867,14954,5,20.5,104.3,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+868,14955,59,85.55,5084.65,Yes,Fiber optic,One year,Electronic check,Loyal,High,1,1,1
+869,14956,3,26.4,121.25,No,No,Two year,Mailed check,New,Low,0,1,2
+870,14957,72,98.2,7015.9,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+871,14958,57,97.55,5598.0,No,Fiber optic,One year,Credit card (automatic),Loyal,High,1,0,1
+872,14959,66,19.95,1269.1,No,No,Two year,Credit card (automatic),Champion,Low,0,0,2
+873,14960,60,50.8,3027.4,Yes,DSL,Month-to-month,Electronic check,Loyal,Med,1,0,0
+874,14961,45,99.7,4634.35,No,Fiber optic,Two year,Bank transfer (automatic),Loyal,High,1,1,2
+875,14962,3,34.8,113.95,No,DSL,Month-to-month,Credit card (automatic),New,Med,1,0,0
+876,14963,15,105.1,1582.75,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+877,14964,51,60.15,3077.0,No,DSL,One year,Bank transfer (automatic),Loyal,Med,1,0,1
+878,14965,60,64.75,4039.5,No,DSL,One year,Electronic check,Loyal,Med,1,1,1
+879,14966,33,54.65,1665.2,No,DSL,Month-to-month,Bank transfer (automatic),Regular,Med,1,1,0
+880,14967,10,110.1,1043.3,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+881,14968,26,19.3,504.2,No,No,One year,Credit card (automatic),Regular,Low,0,0,1
+882,14969,6,83.9,497.55,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+883,14970,67,111.25,7511.65,No,Fiber optic,One year,Electronic check,Champion,High,1,1,1
+884,14971,49,35.8,1782.0,No,DSL,One year,Credit card (automatic),Loyal,Med,1,0,1
+885,14972,1,20.05,20.05,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+886,14973,7,84.35,609.65,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+887,14974,27,110.5,2857.6,No,Fiber optic,One year,Bank transfer (automatic),Regular,High,1,1,1
+888,14975,37,91.2,3247.55,No,Fiber optic,One year,Credit card (automatic),Loyal,High,1,0,1
+889,14976,63,100.55,6215.35,Yes,Fiber optic,Month-to-month,Electronic check,Champion,High,1,1,0
+890,14977,31,89.3,2823.0,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+891,14978,50,103.85,5017.9,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),Loyal,High,1,1,0
+892,14979,32,81.1,2619.25,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,1,0
+893,14980,1,24.6,24.6,Yes,DSL,Month-to-month,Electronic check,New,Low,1,0,0
+894,14981,63,81.2,4965.1,No,Fiber optic,One year,Credit card (automatic),Champion,High,1,1,1
+895,14982,30,94.3,2679.7,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,1,0
+896,14983,71,116.1,8310.55,No,Fiber optic,Two year,Bank transfer (automatic),Champion,High,1,1,2
+897,14984,53,105.55,5682.25,No,Fiber optic,Two year,Electronic check,Loyal,High,1,1,2
+898,14985,12,98.9,1120.95,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),New,High,1,0,0
+899,14986,50,94.4,4914.9,No,Fiber optic,Month-to-month,Credit card (automatic),Loyal,High,1,1,0
+900,14987,2,19.5,27.55,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+901,14988,9,98.3,923.5,Yes,Fiber optic,Month-to-month,Credit card (automatic),New,High,1,1,0
+902,14989,17,93.85,1625.65,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+903,14990,56,105.6,6068.65,No,Fiber optic,One year,Credit card (automatic),Loyal,High,1,0,1
+904,14991,67,81.35,5398.6,No,DSL,Two year,Credit card (automatic),Champion,High,1,0,2
+905,14992,9,100.5,918.6,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+906,14993,4,56.4,234.85,No,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+907,14994,19,65.35,1231.85,No,DSL,One year,Bank transfer (automatic),Regular,Med,1,0,1
+908,14995,8,19.95,170.9,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+909,14996,71,111.25,7984.15,No,Fiber optic,Two year,Electronic check,Champion,High,1,1,2
+910,14997,10,72.85,688.65,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+911,14998,15,89.0,1288.3,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,1,0
+912,14999,72,106.1,7848.5,No,Fiber optic,One year,Bank transfer (automatic),Champion,High,1,1,1
+913,15000,12,20.05,267.0,No,No,One year,Credit card (automatic),New,Low,0,0,1
+914,15001,72,25.2,1798.9,No,No,Two year,Bank transfer (automatic),Champion,Low,0,1,2
+915,15002,1,73.55,73.55,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+916,15003,23,75.4,1643.55,No,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,0,0
+917,15004,72,65.55,4807.45,No,DSL,Two year,Bank transfer (automatic),Champion,Med,1,0,2
+918,15005,26,80.7,2193.0,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+919,15006,21,104.55,2239.4,No,Fiber optic,One year,Mailed check,Regular,High,1,0,1
+920,15007,60,24.15,1505.9,No,No,One year,Bank transfer (automatic),Loyal,Low,0,1,1
+921,15008,12,20.45,255.35,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+922,15009,16,75.4,1189.4,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+923,15010,63,79.7,4786.15,No,DSL,One year,Credit card (automatic),Champion,High,1,1,1
+924,15011,22,81.7,1820.9,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+925,15012,32,76.3,2404.15,No,DSL,Month-to-month,Bank transfer (automatic),Regular,High,1,0,0
+926,15013,3,79.4,205.05,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+927,15014,13,81.15,952.3,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+928,15015,68,103.75,7039.45,No,Fiber optic,Two year,Credit card (automatic),Champion,High,1,1,2
+929,15016,30,86.45,2538.05,No,Fiber optic,One year,Electronic check,Regular,High,1,0,1
+930,15017,16,75.1,1212.85,No,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,0,0
+931,15018,33,80.6,2651.1,No,Fiber optic,Two year,Bank transfer (automatic),Regular,High,1,0,2
+932,15019,72,19.3,1304.8,No,No,Two year,Credit card (automatic),Champion,Low,0,0,2
+933,15020,4,84.6,360.1,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+934,15021,12,33.6,435.45,No,DSL,One year,Mailed check,New,Med,1,0,1
+935,15022,4,83.25,308.05,No,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+936,15023,0,80.85,1397.475,No,DSL,Two year,Mailed check,New,High,1,0,2
+937,15024,6,79.05,434.5,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+938,15025,65,108.05,7118.9,No,Fiber optic,One year,Credit card (automatic),Champion,High,1,1,1
+939,15026,15,19.9,320.45,No,No,Month-to-month,Mailed check,Regular,Low,0,0,0
+940,15027,24,21.05,531.55,No,No,One year,Bank transfer (automatic),Regular,Low,0,0,1
+941,15028,13,30.15,382.2,No,DSL,Month-to-month,Electronic check,Regular,Med,1,0,0
+942,15029,24,79.85,2001.0,No,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,0,0
+943,15030,72,65.5,4919.7,No,DSL,Two year,Bank transfer (automatic),Champion,Med,1,0,2
+944,15031,54,104.1,5645.8,No,Fiber optic,Month-to-month,Bank transfer (automatic),Loyal,High,1,1,0
+945,15032,3,74.4,215.8,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),New,High,1,1,0
+946,15033,4,20.5,77.6,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+947,15034,32,91.35,2896.55,No,Fiber optic,Month-to-month,Mailed check,Regular,High,1,1,0
+948,15035,35,99.05,3395.8,Yes,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+949,15036,35,20.5,759.35,No,No,Two year,Bank transfer (automatic),Regular,Low,0,0,2
+950,15037,2,44.95,85.15,Yes,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+951,15038,8,75.6,535.55,No,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+952,15039,22,55.1,1253.15,No,DSL,Month-to-month,Mailed check,Regular,Med,1,0,0
+953,15040,15,58.95,955.15,No,DSL,Month-to-month,Electronic check,Regular,Med,1,0,0
+954,15041,22,95.1,2162.6,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,1,0
+955,15042,1,44.7,44.7,Yes,DSL,Month-to-month,Credit card (automatic),New,Med,1,0,0
+956,15043,71,25.45,1813.35,No,No,Two year,Bank transfer (automatic),Champion,Low,0,1,2
+957,15044,4,56.75,245.15,No,DSL,Month-to-month,Electronic check,New,Med,1,0,0
+958,15045,25,81.75,2028.8,No,DSL,Month-to-month,Bank transfer (automatic),Regular,High,1,1,0
+959,15046,32,86.1,2723.75,No,Fiber optic,Month-to-month,Electronic check,Regular,High,1,0,0
+960,15047,7,29.8,220.45,No,DSL,Month-to-month,Bank transfer (automatic),New,Low,1,0,0
+961,15048,17,20.5,365.8,No,No,One year,Mailed check,Regular,Low,0,0,1
+962,15049,8,60.9,551.95,No,DSL,Month-to-month,Bank transfer (automatic),New,Med,1,0,0
+963,15050,56,73.25,4054.2,No,DSL,Two year,Bank transfer (automatic),Loyal,High,1,1,2
+964,15051,1,45.7,45.7,Yes,DSL,Month-to-month,Mailed check,New,Med,1,0,0
+965,15052,8,100.3,832.35,Yes,Fiber optic,Month-to-month,Credit card (automatic),New,High,1,0,0
+966,15053,7,19.25,112.3,Yes,No,Month-to-month,Electronic check,New,Low,0,0,0
+967,15054,3,20.85,60.65,No,No,Month-to-month,Mailed check,New,Low,0,0,0
+968,15055,71,77.35,5550.1,No,DSL,Two year,Credit card (automatic),Champion,High,1,0,2
+969,15056,2,96.0,174.8,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+970,15057,1,90.55,90.55,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,0,0
+971,15058,49,93.85,4733.1,No,Fiber optic,Month-to-month,Bank transfer (automatic),Loyal,High,1,1,0
+972,15059,58,70.1,4048.95,No,DSL,Two year,Bank transfer (automatic),Loyal,High,1,0,2
+973,15060,44,30.35,1359.7,Yes,DSL,Month-to-month,Electronic check,Loyal,Med,1,0,0
+974,15061,59,75.95,4542.35,No,DSL,Two year,Credit card (automatic),Loyal,High,1,0,2
+975,15062,71,108.05,7532.15,Yes,Fiber optic,Two year,Electronic check,Champion,High,1,1,2
+976,15063,1,69.9,69.9,Yes,Fiber optic,Month-to-month,Electronic check,New,Med,1,0,0
+977,15064,11,75.25,888.65,No,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+978,15065,62,103.75,6383.35,Yes,Fiber optic,One year,Electronic check,Champion,High,1,1,1
+979,15066,35,54.95,1916.0,No,DSL,One year,Bank transfer (automatic),Regular,Med,1,0,1
+980,15067,20,19.5,413.0,No,No,Month-to-month,Bank transfer (automatic),Regular,Low,0,0,0
+981,15068,40,19.6,808.95,No,No,Two year,Mailed check,Loyal,Low,0,0,2
+982,15069,39,47.85,1886.4,No,DSL,One year,Electronic check,Loyal,Med,1,0,1
+983,15070,1,86.6,86.6,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+984,15071,72,23.75,1679.25,No,No,Two year,Bank transfer (automatic),Champion,Low,0,1,2
+985,15072,33,80.6,2656.5,Yes,Fiber optic,Month-to-month,Bank transfer (automatic),Regular,High,1,1,0
+986,15073,12,43.8,540.95,No,DSL,Month-to-month,Bank transfer (automatic),New,Med,1,0,0
+987,15074,1,19.75,19.75,No,No,Month-to-month,Bank transfer (automatic),New,Low,0,0,0
+988,15075,27,19.15,537.35,No,No,Month-to-month,Mailed check,Regular,Low,0,0,0
+989,15076,34,19.6,678.8,No,No,One year,Credit card (automatic),Regular,Low,0,0,1
+990,15077,56,80.3,4513.65,No,Fiber optic,Two year,Bank transfer (automatic),Loyal,High,1,0,2
+991,15078,58,24.35,1423.85,No,No,Two year,Credit card (automatic),Loyal,Low,0,1,2
+992,15079,22,25.25,555.4,No,No,Two year,Credit card (automatic),Regular,Low,0,1,2
+993,15080,10,26.1,225.55,No,No,Two year,Credit card (automatic),New,Low,0,1,2
+994,15081,13,20.0,268.45,No,No,Two year,Credit card (automatic),Regular,Low,0,0,2
+995,15082,35,85.3,2917.5,Yes,Fiber optic,Month-to-month,Credit card (automatic),Regular,High,1,1,0
+996,15083,34,70.0,2416.1,Yes,Fiber optic,Month-to-month,Credit card (automatic),Regular,Med,1,0,0
+997,15084,4,94.3,424.45,Yes,Fiber optic,Month-to-month,Electronic check,New,High,1,1,0
+998,15085,72,20.7,1492.1,No,No,Two year,Bank transfer (automatic),Champion,Low,0,0,2
+999,15086,2,70.3,132.4,No,DSL,Month-to-month,Electronic check,New,High,1,0,0
