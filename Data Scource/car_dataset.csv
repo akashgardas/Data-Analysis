@@ -1,0 +1,16 @@
+Car_ID,Make,Model,Year,Mileage (in miles),Engine_Size (L),Fuel Type,Price (INR)
+1,Toyota,Camry,2015,50000,2.5,Gasoline,1245000
+2,Honda,Accord,2016,40000,2.4,Gasoline,1328000
+3,Ford,Focus,2014,60000,2.0,Gasoline,1162000
+4,BMW,X3,2017,30000,3.0,Gasoline,2075000
+5,Audi,Q5,2018,20000,2.0,Gasoline,2241000
+6,Mercedes,C-Class,2019,15000,2.0,Gasoline,2656000
+7,Volkswagen,Jetta,2016,45000,1.8,Gasoline,1281000
+8,Subaru,Outback,2015,55000,2.5,Gasoline,1411000
+9,Nissan,Altima,2017,35000,2.5,Gasoline,1494000
+10,Chevrolet,Malibu,2018,25000,2.0,Gasoline,1577000
+11,Toyota,RAV4,2016,40000,2.5,Gasoline,1660000
+12,Honda,CR-V,2017,30000,2.4,Gasoline,1743000
+13,Ford,Escape,2018,25000,2.5,Gasoline,1830000
+14,BMW,328i,2015,50000,2.0,Gasoline,1909000
+15,Audi,A4,2016,35000,2.0,Gasoline,1992000
